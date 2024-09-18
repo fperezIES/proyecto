@@ -4,121 +4,61 @@
 
 ---
 
-## Seguridad y alta disponibilidad (SAD)
+## Proyecto Intermodular (Primer curso)
 
 - Módulo de 32 horas
 - 1 hora por semana
 - 32 semanas
+- Continuará en segundo curso
 - Orientado al trabajo en grupo
-- Continúa en segundo curso
 
 ---
 
-## RD 659/2023 nueva LFP
+<!-- ## El RD 405/2023, de 29 de mayo:-->
+## Resultados de Aprendizaje (RD 405/2023):
 
-### LFP: Nuevos módulos en 1º (2024-2025)
-
-- Proyecto Intermodular
-- Inglés profesional
-- Itinerario personal para la empleabilidad I (Sustituye a FOL)
-
---
-
-### LFP: Nuevos módulos en 2º
-
-
-- Proyecto Intermodular	
-- Digitalización aplicada al sistema productivo GS
-- Sostenibilidad aplicada al sistema productivo
-- Itinerario personal para la empleabilidad II
-- Optativa
-
---
-
-## LFP: FCT Dual
-
-
-- Prácticas en empresa en 1º (100 horas) y 2º (400 horas)
-	- En semipresencial se acumulan las horas en 2º (500 horas)
-	
-- LOE: FCT 400 horas
-
---
-
-## RD 659/2023 nueva LFP III
-
-### Plan de transición:
-
-- Matrícula únicamente con módulos de primero: 
-	- Aplica nueva LFP	
-- Matrícula con módulos de segundo:
-	- Sigue con antigua LOE	
-	- Pendientes de primero también con antigua LOE	
-- **2 años de prórroga, en 2026-2027 será todo LFP**
-
+1. **Identifica necesidades** del sector productivo, relacionándolas con proyectos tipo que puedan satisfacerlas.
+2. Diseña proyectos relacionados con las **competencias** expresadas en el título, desarrollando explícitamente las fases que lo componen.
+3. **Planifica** la ejecución del proyecto, determinando el plan de intervención y la documentación asociada.
+4. Define los procedimientos para el **seguimiento y control en la ejecución** del proyecto, justificando la selección de variables e instrumentos empleados.
 
 ---
 
-## Contenidos principales 
+## Líneas de actuación (RD 405/2023)
 
- 
-
----
-
-## Unidades didácticas
-
-- Primer trimestre:
-
-
-- Segundo Trimestre
-
-- Tercer Trimestre
+− La ejecución de trabajos en equipo.
+− La autoevaluación del trabajo realizado.
+− La autonomía y la iniciativa.
+− El uso de las TIC
 
 ---
-
 ## Metodología
 
-- Los contenidos y la planificación se publicará en la Clase Virtual (Aules)
-
-
+- Materiales y tareas se publicarán en Aules.
+- La metodología se orientará mayoritariamente a la **práctica**.
+- Se trabajará en grupos (4-5 personas). 
+- Los grupos serán formados voluntariamente por los alumnos.
+	- El tutor se reserva el derecho de realizar cambios en los componentes
+	- El tutor se reserva el derecho de forzar los grupos si no hay acuerdos.
+- La nota del proyecto se calculará conjuntamente entre las notas del primer curso y la del segundo.
+- La nota que se ponga en 1º será provisional hasta que se tenga la de 2º.
 
 ---
-
-
-
-
-
----
-
-# Evaluación
+## Evaluación
 
 - No habrá exámenes
-- Trabajos Indivuduales
-- Desarrollo de proyecto en grupos de 5-8 personas
-
---
-
-## Evaluación trimestral 
-
-|Tarea|Porcentaje|Requisito|
-|---|---|---|
-|Exámenes|70%|>=4|
-|Ejercicios obligatorios|30%|>=4|
-|Ejercicios opcionales|10% (extra)|   |
-
---
-
-## Evaluación final
-
-|Tarea|Porcentaje|Requisito|
-|---|---|---|
-|1st trimester|50%|>=5|
-|2nd trimester|50%|>=5|
+- Trabajos en grupo, pero nota es individual (dependerá del desempeño)
+- La nota del proyecto se calculará conjuntamente entre las notas del primer curso y la del segundo.
+- La nota que se ponga en 1º será provisional hasta que se tenga la de 2º.
 
 ---
+## Contenidos 
 
+- Teoría de Proyectos
+- Metodologías ágiles: Scrum y Kanban
+- Herramientas de gestión de proyectos (Jira)
+- Herramientas para trabajo colaborativo (Git)
+- Desarrollo de proyecto: Definición, Análisis, Planificación, Desarrollo, Pruebas, Documentación, Despliegue.
 
-
-## Exámenes y recuperaciones
-
-
+---
+## ¿Preguntas?
