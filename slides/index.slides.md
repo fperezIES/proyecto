@@ -4,7 +4,9 @@
 
 ---
 
-## Proyecto Intermodular (Primer curso)
+## Proyecto Intermodular 
+
+### Primer curso
 
 - Módulo de 32 horas
 - 1 hora por semana
@@ -15,7 +17,9 @@
 ---
 
 <!-- ## El RD 405/2023, de 29 de mayo:-->
-## Resultados de Aprendizaje (RD 405/2023):
+## Resultados de Aprendizaje 
+
+### RD 405/2023
 
 1. **Identifica necesidades** del sector productivo, relacionándolas con proyectos tipo que puedan satisfacerlas.
 2. Diseña proyectos relacionados con las **competencias** expresadas en el título, desarrollando explícitamente las fases que lo componen.
@@ -26,38 +30,35 @@
 
 ## Líneas de actuación (RD 405/2023)
 
-− La ejecución de trabajos en equipo.
-− La autoevaluación del trabajo realizado.
-− La autonomía y la iniciativa.
-− El uso de las TIC
+- La ejecución de trabajos en equipo.
+- La autoevaluación del trabajo realizado.
+- La autonomía y la iniciativa.
+- El uso de las TIC
 
 ---
 ## Metodología
 
-- Materiales y tareas se publicarán en Aules.
+- Materiales y tareas se publicarán en **Aules**.
 - La metodología se orientará mayoritariamente a la **práctica**.
-- Se trabajará en grupos (4-5 personas). 
+- Se trabajará en **grupos** (4-5 personas). 
 - Los grupos serán formados voluntariamente por los alumnos.
-	- El tutor se reserva el derecho de realizar cambios en los componentes
-	- El tutor se reserva el derecho de forzar los grupos si no hay acuerdos.
-- La nota del proyecto se calculará conjuntamente entre las notas del primer curso y la del segundo.
-- La nota que se ponga en 1º será provisional hasta que se tenga la de 2º.
+	- El tutor se reserva el derecho de realizar cambios en los componentes.
 
 ---
 ## Evaluación
 
-- No habrá exámenes
-- Trabajos en grupo, pero nota es individual (dependerá del desempeño)
-- La nota del proyecto se calculará conjuntamente entre las notas del primer curso y la del segundo.
-- La nota que se ponga en 1º será provisional hasta que se tenga la de 2º.
+- **No habrá exámenes**
+- Trabajos en grupo, pero **nota es individual** (dependerá del desempeño)
+- La nota del proyecto promediará la nota del primer curso y la del segundo.
+- La nota de 1º será provisional hasta que se tenga la de 2º.
 
 ---
 ## Contenidos 
 
 - Teoría de Proyectos
-- Metodologías ágiles: Scrum y Kanban
-- Herramientas de gestión de proyectos (Jira)
-- Herramientas para trabajo colaborativo (Git)
+- Metodologías ágiles: **Scrum y Kanban**
+- Herramientas de gestión de proyectos (**Jira**)
+- Herramientas para trabajo colaborativo (**Git**)
 - Desarrollo de proyecto: Definición, Análisis, Planificación, Desarrollo, Pruebas, Documentación, Despliegue.
 
 ---
