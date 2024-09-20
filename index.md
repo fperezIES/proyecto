@@ -1,70 +1,46 @@
-Repositorio con apuntes para el módulo de *Proyecto Intermodular* de ciclos de GS.
 
-# Unidades didácticas
+# Proyecto Intermodular
+### Introducción
 
-### Temario "Proyecto Intermodular"
+El **Proyecto Intermodular** en su primer curso debe estar enfocado en integrar diversas competencias adquiridas en los módulos profesionales cursados a lo largo del ciclo. 
 
-1. **Introducción al Proyecto Intermodular**
-   - Objetivos del proyecto.
-   - Metodología de trabajo colaborativo.
-     - **Desarrollo colaborativo**: 
+### Objetivos del Proyecto Intermodular
 
+- **Desarrollo de un proyecto completo:** Aplicar los conocimientos y habilidades adquiridos en diferentes módulos de manera integrada en un proyecto realista.
+- **Trabajo en equipo:** Fomentar la colaboración, organización y responsabilidad compartida en el trabajo grupal.
+- **Simulación de un entorno de trabajo profesional:** Los estudiantes deben enfrentarse a desafíos similares a los que encontrarán en el mundo laboral, resolviendo problemas reales del sector de desarrollo de software multiplataforma.
+- **Evaluación continua y presentación pública:** El seguimiento será continuo y culminará en la defensa del proyecto ante el equipo docente.
 
-   - **Ciberseguridad en proyectos**: Consideraciones básicas de seguridad en el desarrollo.
+### Evaluación
 
-1. Trabajo Colaborativo
-	- Control de versiones (GIT)
-	- Herramientas de comunicación
-		- email
-		- slack?
+- **Seguimiento continuo:** Evaluación progresiva del trabajo en grupo e individual.
+- **Calificación final individual:** Basada en la contribución de cada alumno en el desarrollo del proyecto, la documentación presentada y la defensa oral.
 
-3. Gestión de proyectos
-	 - **Metodologías Ágiles**: Introducción a Scrum y Kanban.
-	- Herramientas de gestión de proyectos (Jira).
+### Contenidos del Proyecto Intermodular
 
+A continuación, se propone una estructura básica y contenidos sugeridos para este módulo para los diferentes ciclos:
 
+- [Contenidos proyecto DAM](contenidosDAM.md)
+- [Contenidos proyecto DAW](contenidosDAW.md)
+- [Contenidos proyecto ASIR](contenidosASIR.md)
 
-5. **Definición del Proyecto**
-   - Análisis de requerimientos.
-   - Elaboración del plan de proyecto.
-   - Planificación de tareas y cronograma.
-   - Revisión de los módulos y su interconexión (Programación, Bases de Datos, Interfaces, etc.).
+El proyecto deberá cubrir todos los aspectos de los contenidos, activando los resultados de aprendizaje de los diferentes módulos. De esta forma, el proyecto intermodular servirá como una forma de aplicar los conocimientos en un contexto práctico y realista, preparando a los alumnos para su futuro profesional .
 
-6. **Diseño del Proyecto**
-   - Diseño de la arquitectura del sistema.
-   - Diseño de base de datos.
-   - Diseño de interfaces de usuario.
-   - Definición de las tecnologías a utilizar (Java, Android, SQLite, etc.).
+### Primer Trimestre
 
-7. **Desarrollo de Módulos**
-   - Programación de la lógica de negocio.
-   - Conexión con bases de datos.
-   - Implementación de interfaces gráficas (UI/UX).
-   - Pruebas unitarias y depuración de código.
+Durante el primer trimestre el alumnado no habrá podido adquirir todavía las competencias necesarias para comenzar con el desarrollo del proyecto. Así que nos centraremos en enseñar **teoría de proyectos, gestión de proyectos y herramientas colaborativas** sentará una base sólida que será crucial para cuando los alumnos adquieran las competencias técnicas necesarias.
 
-8. **Integración de los Módulos**
-   - Integración de las diferentes partes del sistema.
-   - Gestión de dependencias y control de versiones (Git/GitHub).
-   - Pruebas de integración.
+Abordar estos temas desde el principio, no solo mejorará la organización de los estudiantes cuando comiencen los desarrollos técnicos, sino que también aprenderán a trabajar de forma eficiente en equipos, lo cual es fundamental en el entorno laboral real.
 
-9. **Pruebas del Sistema**
-   - Tipos de pruebas: unitarias, de integración y de sistema.
-   - Técnicas de testeo automático.
-   - Pruebas de rendimiento y seguridad.
+Durante este primer trimestre, los alumnos aprenderán a:
 
-10. **Documentación del Proyecto**
-   - Documentación técnica.
-   - Documentación del usuario.
-   - Elaboración de manuales y guías de uso.
-
-11. **Presentación y Defensa del Proyecto**
-   - Preparación de la presentación del proyecto.
-   - Técnicas de presentación oral y visual.
-   - Defensa del proyecto ante un tribunal evaluador.
-
-12. **Revisión y Evaluación**
-   - Autoevaluación del proyecto.
-   - Evaluación por parte de los compañeros (peer review).
-   - Revisión final por el profesorado.
+- UD1 **Planificar y organizar un proyecto:** 
+	- Ciclos de vida de un proyecto, la importancia de los objetivos, las entregas y los plazos.
+- UD2 **Utilizar herramientas de gestión de proyectos:** 
+	- Como **Trello, Jira o Asana** para organizar tareas, establecer prioridades y asignar responsabilidades.
+- UD4 **Herramientas de trabajo colaborativo:** 
+	- Mostrarles cómo utilizar **Git/GitHub**, Google Drive, o Slack para trabajar de manera colaborativa y gestionar el control de versiones y la comunicación en un equipo.
+- UD5 **Documentación y reportes:** 
+	- Explicar la importancia de documentar correctamente los avances, problemas y soluciones en un proyecto, utilizando herramientas como Google Docs o Notion.
 
 

@@ -1,2 +1,3 @@
-# Proyecto Intermodular
-Materiales para proyecto intermodular de 1DAM
+Repositorio con apuntes para el módulo de *Proyecto Intermodular* de ciclos de GS.
+
+[Contenidos](index.md)
