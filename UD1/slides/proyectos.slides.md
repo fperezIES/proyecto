@@ -1,5 +1,6 @@
 <!-- .slide: data-background="#2C3E50" -->
-# Planificación y Organización de Proyectos
+
+## Planificación y Organización de Proyectos
 
 ---
 
@@ -13,7 +14,7 @@
 
 ---
 
-## Ciclo de vida de un proyecto
+### Ciclo de vida de un proyecto
 
 1. **Inicio del proyecto:**
    - Definir la idea principal del proyecto.
@@ -77,11 +78,11 @@
 <!-- .slide: data-background="#A8DADC" -->
 # Tareas Prácticas
 
-## Actividad 1: Definir Objetivos SMART
+### Actividad 1: Definir Objetivos SMART
 - Elegir un proyecto ficticio y definir objetivos usando el método SMART.
 
-## Actividad 2: Descomponer en Entregas
+### Actividad 2: Descomponer en Entregas
 - Descomponer el proyecto en entregas intermedias y finales.
 
-## Actividad 3: Crear Cronograma
+### Actividad 3: Crear Cronograma
 - Crear un cronograma básico con un diagrama de Gantt usando software como Trello o Jira.

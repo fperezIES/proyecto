@@ -16,32 +16,31 @@ El **ciclo de vida de un proyecto** se refiere a las fases o etapas por las que 
 
 Las fases típicas del ciclo de vida de un proyecto son:
 
-1. **Inicio del proyecto:**
-    
+1. **Inicio del proyecto:**    
     - Se define la idea principal del proyecto.
     - Se identifican las partes interesadas (stakeholders).
     - Se evalúa la viabilidad del proyecto.
     - Se redacta el acta de constitución del proyecto (Project Charter), que incluye los objetivos generales y la justificación del proyecto.
-2. **Planificación:**
     
+1. **Planificación:**    
     - Se detallan los objetivos del proyecto, estableciendo metas claras y medibles.
     - Se definen las tareas necesarias para completar el proyecto.
     - Se identifican los recursos necesarios (humanos, técnicos, financieros).
     - Se elabora un cronograma, fijando fechas clave y plazos.
     - Se realiza un análisis de riesgos (posibles problemas que pueden surgir y cómo gestionarlos).
-3. **Ejecución:**
     
+1. **Ejecución:**    
     - Se llevan a cabo las actividades y tareas planificadas para cumplir con los objetivos del proyecto.
     - Se gestiona al equipo de trabajo y se coordinan los recursos.
     - Se supervisa el avance y se toman medidas correctivas si es necesario.
     - Se mantiene una comunicación fluida con las partes interesadas.
-4. **Seguimiento y control:**
     
+1. **Seguimiento y control:**    
     - Se mide el rendimiento del proyecto respecto a los objetivos y plazos definidos.
     - Se realizan ajustes si es necesario, como replanificar tareas o reasignar recursos.
     - Se controlan los costos, plazos y la calidad de las entregas.
-5. **Cierre del proyecto:**
     
+1. **Cierre del proyecto:**
     - Se verifica que todos los objetivos y entregables se hayan cumplido.
     - Se documenta el proyecto y se archiva toda la información relevante.
     - Se realiza una evaluación final del proyecto para identificar lecciones aprendidas y mejorar en futuros proyectos.

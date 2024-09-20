@@ -1,5 +1,6 @@
 
 # Proyecto Intermodular
+
 ### Introducción
 
 El **Proyecto Intermodular** en su primer curso debe estar enfocado en integrar diversas competencias adquiridas en los módulos profesionales cursados a lo largo del ciclo. 
@@ -35,12 +36,11 @@ Abordar estos temas desde el principio, no solo mejorará la organización de lo
 Durante este primer trimestre, los alumnos aprenderán a:
 
 - UD1 **Planificar y organizar un proyecto:** 
-	- Ciclos de vida de un proyecto, la importancia de los objetivos, las entregas y los plazos.
+	- [Ciclo de vida de un proyecto, la importancia de los objetivos, las entregas y los plazos.](UD1/proyectos.md)
 - UD2 **Utilizar herramientas de gestión de proyectos:** 
 	- Como **Trello, Jira o Asana** para organizar tareas, establecer prioridades y asignar responsabilidades.
 - UD4 **Herramientas de trabajo colaborativo:** 
 	- Mostrarles cómo utilizar **Git/GitHub**, Google Drive, o Slack para trabajar de manera colaborativa y gestionar el control de versiones y la comunicación en un equipo.
 - UD5 **Documentación y reportes:** 
 	- Explicar la importancia de documentar correctamente los avances, problemas y soluciones en un proyecto, utilizando herramientas como Google Docs o Notion.
-
 

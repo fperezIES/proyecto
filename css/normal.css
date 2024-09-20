@@ -20,14 +20,10 @@ h1
 }
 
 h2{
-    /* Solid border */
-    border-bottom: 3px solid #838383;
-}
-
-h3{
     /* Dotted border */
     border-top: 3px dotted #bbb;
 }
+
 
 
 /* Dashed border */
