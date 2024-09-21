@@ -8,26 +8,34 @@
 
 ### 1. Ingeniería de software
 
-Para desarrollar software correctamente, debemos seguir una serie de pasos o un enfoque específico. La **ingeniería de software** es la rama de la informática que nos ayuda a seguir estos enfoques y pasos de manera adecuada.
+Para desarrollar software correctamente, debemos seguir una serie de pasos o un enfoque específico. 
+
+La **ingeniería de software** es la rama de la informática que nos ayuda a seguir estos enfoques y pasos de manera adecuada.
 
 
 ---
 
-### 1.1. Etapas del desarrollo de software
+### 1.1. Etapas del desarrollo de software I
 
 1. **Análisis de requisitos**: incluye la comunicación con el cliente para aclarar sus necesidades y un análisis preliminar para definir el comportamiento de la aplicación. Se divide en:
    * **Especificación de requisitos**: recopilación y aclaración de las necesidades del cliente. El documento resultante se llama *especificación de requisitos*.
    * **Análisis**: creación de diagramas que representen las principales funcionalidades y conexiones de la aplicación.
 2. **Diseño**: definición de cómo funcionará el software, basado en los documentos de análisis.
-3. **Implementación**: desarrollo del software usando lenguajes de programación.
-4. **Pruebas**: comprobación de que el software cumple los requisitos y no presenta errores.
-5. **Mantenimiento**: mejoras y corrección de errores tras la implementación.
+
+--
+### 1.1. Etapas del desarrollo de software II
+
+1. **Implementación**: desarrollo del software usando lenguajes de programación.
+2. **Pruebas**: comprobación de que el software cumple los requisitos y no presenta errores.
+3. **Mantenimiento**: mejoras y corrección de errores tras la implementación.
 
 ---
 
 ### 2. Ciclos de vida del software
 
-Un ciclo de vida define las etapas que debe seguir un sistema desde su inicio hasta que deja de usarse. Cada etapa tiene entradas, salidas y productos generados, llamados *entregables*.
+Un ciclo de vida define las etapas que debe seguir un sistema desde su inicio hasta que deja de usarse.
+
+Cada etapa tiene entradas, salidas y productos generados, llamados *entregables*.
 
 ---
 
@@ -39,14 +47,14 @@ El modelo más antiguo y extendido, creado en los años 70. Las fases deben comp
 
 --
 
-**Ventajas**:
-- Adecuado para proyectos pequeños con requisitos bien definidos.
-- Bien estructurado y fácil de usar.
+- **Ventajas**:
+	- Adecuado para proyectos pequeños con requisitos bien definidos.
+	- Bien estructurado y fácil de usar.
 
-**Desventajas**:
-- No aplicable a la mayoría de proyectos reales.
-- No se ven resultados hasta el final.
-- Los fallos se detectan al final.
+- **Desventajas**:
+	- No aplicable a la mayoría de proyectos reales.
+	- No se ven resultados hasta el final.
+	- Los fallos se detectan al final.
 
 ---
 
@@ -54,17 +62,17 @@ El modelo más antiguo y extendido, creado en los años 70. Las fases deben comp
 
 Incluye pruebas desde las primeras fases. Las pruebas se realizan en paralelo a las fases de desarrollo.
 
-![Modelo en V](img/ED_b1_tema03-02-modelo_v.png)
+![Modelo en V](../img/ED_b1_tema03-02-modelo_v.png)
 
 --
 
-**Ventajas**:
-- Fácil de usar.
-- Mayor probabilidad de éxito gracias a las pruebas en cada fase.
+- **Ventajas**:
+	- Fácil de usar.
+	- Mayor probabilidad de éxito gracias a las pruebas en cada fase.
 
-**Desventajas**:
-- También es rígido.
-- No se desarrollan prototipos intermedios.
+- **Desventajas**:
+	- También es rígido.
+	- No se desarrollan prototipos intermedios.
 
 ---
 
@@ -89,7 +97,7 @@ Genera versiones intermedias del producto en cada iteración. Útil para proyect
 
 Combina los modelos en cascada e iterativo. Se gestiona en ciclos, evaluando riesgos en cada ciclo.
 
-![Modelo en espiral](../img/ED_b1_tema03-04-modelo_espiral.png){:class="center"}
+![Modelo en espiral](../img/ED_b1_tema03-04-modelo_espiral.png)
 
 --
 
