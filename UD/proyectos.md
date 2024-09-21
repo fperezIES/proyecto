@@ -74,7 +74,7 @@ Las **entregas** o **deliverables** son los resultados concretos que el proyecto
 - Aseguran que se cumplan los requisitos del cliente o usuario.
 - Facilitan la gestión del proyecto, ya que se pueden identificar problemas y tomar acciones correctivas antes de la entrega final.
 
-#### 1.5. Plazos y cronogramas
+#### 5. Plazos y cronogramas
 
 Los **plazos** son las fechas límite para completar tareas o entregar productos dentro del proyecto. Tener plazos claros es crucial para evitar retrasos y asegurarse de que el proyecto se complete a tiempo.
 

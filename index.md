@@ -36,11 +36,11 @@ Abordar estos temas desde el principio, no solo mejorará la organización de lo
 Durante este primer trimestre, los alumnos aprenderán a:
 
 - UD1 **Teoría de proyectos:** 
-	- [Planificación y Organización de Proyectos: Ciclo de vida de un proyecto, objetivos, entregas y plazos.](UD/proyectos.md)
+	- [Introducción a Proyectos](UD/proyectos.md)
 	- Ciclos de vida de proyectos de software
-	- Metodologías ágiles: Scrum y Kanban
-- UD2 **Utilizar herramientas de gestión de proyectos:** 
-	- Organizar tareas, establecer prioridades y asignar responsabilidades.
+	- Metodologías ágiles
+		- Scrum y Kanban
+- UD2 **Utilizar herramientas de gestión de proyectos:** Organizar tareas, establecer prioridades y asignar responsabilidades.	
 		- Jira
 		- Trello
 		- Asana	
@@ -55,5 +55,5 @@ Durante este primer trimestre, los alumnos aprenderán a:
 		- Office 365
 - UD5 **Documentación y reportes:** 
 	- Explicar la importancia de documentar correctamente los avances, problemas y soluciones en un proyecto, utilizando herramientas como Google Docs o Notion.
-- UD6 Presentaciones
+- UD6 **Presentaciones**
 	- [Estructura de presentaciones](UD/presentaciones.md)
