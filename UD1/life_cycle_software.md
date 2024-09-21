@@ -108,7 +108,7 @@ Este modelo fue creado por Boehm en 1988 y trata de combinar los modelos en casc
 Este modelo gestiona los riesgos del desarrollo de software. Comenzamos desde el centro de la espiral, y en cada ciclo analizamos todas las alternativas de desarrollo, identificamos los riesgos más asumibles y luego ejecutamos un ciclo de espiral. Si el cliente trae nuevos requisitos o mejoras, evaluamos nuevamente los riesgos y realizamos otro ciclo, hasta que el producto sea finalmente aceptado.
 
 
-![Modelo en espiral](img/ED_b1_tema03-04-modelo_espiral_en.png){:class="center"}
+![Modelo en espiral](../img/ED_b1_tema03-04-modelo_espiral.png){:class="center"}
 
 - En la etapa de **objetivos**, establecemos el producto final a alcanzar (requisitos, análisis, etc.).
 - En la etapa de **evaluación de riesgos**, identificamos los posibles riesgos del proyecto y elegimos las opciones para reducirlos lo máximo posible.
