@@ -1,6 +1,6 @@
-### Tema 1: Planificación y Organización de Proyectos
+### Planificación y Organización de Proyectos
 
-#### 1.1. ¿Qué es un proyecto?
+#### 1. ¿Qué es un proyecto?
 
 Un **proyecto** es un conjunto de actividades planificadas que tienen como finalidad alcanzar un objetivo específico. Estos objetivos suelen estar relacionados con la creación de un producto, servicio o resultado. Un proyecto se caracteriza por ser **temporal** (tiene un inicio y un final) y por ser único (el resultado es distinto de lo que se ha hecho antes).
 
@@ -10,7 +10,7 @@ Un **proyecto** es un conjunto de actividades planificadas que tienen como final
 - Implementar una nueva red informática en una empresa.
 - Crear un sistema de gestión de inventarios.
 
-#### 1.2. Ciclo de vida de un proyecto
+#### 2. Ciclo de vida de un proyecto
 
 El **ciclo de vida de un proyecto** se refiere a las fases o etapas por las que pasa un proyecto desde su inicio hasta su finalización. Entender este ciclo es fundamental para planificar y organizar correctamente un proyecto.
 
@@ -45,7 +45,7 @@ Las fases típicas del ciclo de vida de un proyecto son:
     - Se documenta el proyecto y se archiva toda la información relevante.
     - Se realiza una evaluación final del proyecto para identificar lecciones aprendidas y mejorar en futuros proyectos.
 
-#### 1.3. Importancia de los objetivos
+#### 3. Importancia de los objetivos
 
 Los **objetivos** son el núcleo del proyecto. Son las metas que se quieren alcanzar y deben estar claramente definidos desde el inicio. Sin objetivos claros, un proyecto corre el riesgo de desviarse o no cumplir con las expectativas.
 
@@ -59,7 +59,7 @@ Los objetivos **SMART** deben ser:
 - **R** (Relevant) - Relevantes: Deben estar alineados con la estrategia o necesidades del cliente o de la organización.
 - **T** (Time-bound) - Limitados en el tiempo: Deben tener un plazo o fecha límite de entrega (por ejemplo, "completar el proyecto antes del 15 de junio").
 
-#### 1.4. Entregas (*deliverables*) y su importancia
+#### 4. Entregas (*deliverables*) y su importancia
 
 Las **entregas** o **deliverables** son los resultados concretos que el proyecto debe producir. Pueden ser productos, servicios, informes, prototipos, entre otros. Cada entrega es un paso hacia la consecución del objetivo final del proyecto.
 
@@ -90,7 +90,7 @@ Los **plazos** son las fechas límite para completar tareas o entregar productos
 - Evitar sobrecostos.
 - Mantener la motivación del equipo de trabajo.
 
-#### 1.6. Conclusión
+#### 6. Conclusión
 
 Planificar y organizar un proyecto es clave para su éxito. Los ciclos de vida de un proyecto ayudan a estructurar el trabajo y permiten que se avance de manera controlada y efectiva. Definir objetivos claros, entregas bien especificadas y plazos realistas asegura que el proyecto se mantenga en curso y se complete a tiempo, dentro del presupuesto y con los resultados esperados.
 
