@@ -36,8 +36,8 @@ Abordar estos temas desde el principio, no solo mejorará la organización de lo
 Durante este primer trimestre, los alumnos aprenderán a:
 
 - UD1 **Teoría de proyectos:** 
-	- [Planificación y Organización de Proyectos](UD1/proyectos.md)
-	- [Ciclos de vida de proyectos de software]()
+	- [1.1 Planificación y Organización de Proyectos](UD1/proyectos.md)
+	- [1.2 Ciclos de vida de proyectos de software](UD1/life_cycle_software.md)
 	- Metodologías ágiles
 		- Scrum y Kanban
 		
