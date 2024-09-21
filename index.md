@@ -46,7 +46,7 @@ Durante este primer trimestre, los alumnos aprenderán a:
 		- Asana	
 - UD4 **Herramientas de trabajo colaborativo:** 
 	- Control de versiones
-		- *Git/GitHub**
+		- **Git/GitHub**
 	- Comunicación en equipo
 		- Email
 		- Slack
