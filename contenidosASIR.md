@@ -27,7 +27,7 @@
     - Elaboración de la documentación técnica del sistema: topología de red, configuración de servidores, políticas de seguridad, etc.
     - Guía de administración del sistema y manual de usuario para los administradores de la red.
     
-7 **Pruebas y validación del sistema:**    
+7. **Pruebas y validación del sistema:**    
     - Realización de pruebas de estrés en la infraestructura, verificación de servicios, y pruebas de seguridad para asegurar el correcto funcionamiento y resistencia del sistema a fallos o ataques.
     - Documentación de los resultados de las pruebas.
     
