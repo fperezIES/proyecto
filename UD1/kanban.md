@@ -12,7 +12,7 @@ El término general para referirse a la metodología Kanban es **flujo**, ya que
 
 Kanban utiliza mecanismos visuales, como los tableros Kanban, para que los miembros del equipo puedan ver el estado de cada tarea en cualquier momento. Estos tableros pueden ser físicos y/o virtuales.
 
-![Kanban Board](../img/kanban_board.png){:class="center"}
+![Kanban Board](img/kanban_board.png){:class="center"}
 
 La función principal del tablero Kanban es asegurar que el trabajo del equipo sea visualizado y que cualquier bloqueo o dependencia sea detectado inmediatamente. El tablero más básico tiene tres secciones (Por hacer, En progreso y Hecho), pero podemos añadir tantas columnas y estados como necesitemos en nuestro caso particular.
 
