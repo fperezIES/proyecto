@@ -38,8 +38,9 @@ Durante este primer trimestre, los alumnos aprenderán a:
 - UD1 **Teoría de proyectos:** 
 	- [1.1 Planificación y Organización de Proyectos](UD1/proyectos.md)
 	- [1.2 Ciclos de vida de proyectos de software](UD1/life_cycle_software.md)
-	- Metodologías ágiles
-		- Scrum y Kanban
+	- [1.3 Metodologías ágiles](UD1/metodologiasagiles.md)
+		- [Scrum](UD1/scrum.md)
+		- [Kanban](UD1/kanban.md)
 		
 - UD2 **Utilizar herramientas de gestión de proyectos:** Organizar tareas, establecer prioridades y asignar responsabilidades.	
 	- Jira
