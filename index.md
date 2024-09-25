@@ -37,7 +37,7 @@ Abordar estos temas desde el principio, no solo mejorará la organización de lo
 Durante este primer trimestre, los alumnos aprenderán a:
 
 - UD1 **Teoría de proyectos:** 
-	- [1.1 Planificación y Organización de Proyectos](UD1/planificacion_proyectos.md)
+	- [1.1 Planificación y Organización de Proyectos](UD1/proyectos.md)
 		- [Diagramas Gantt](UD1/diagrama_gantt.md)
 	- [1.2 Ciclos de vida de proyectos de software](UD1/life_cycle_software.md)
 	- [1.3 Metodologías ágiles](UD1/metodologias_agiles.md)
@@ -45,11 +45,13 @@ Durante este primer trimestre, los alumnos aprenderán a:
 		- [Kanban](UD1/kanban.md)
 		
 - UD2 **Utilizar herramientas de gestión de proyectos:** Organizar tareas, establecer prioridades y asignar responsabilidades.	
-	- [Jira](UD2/jira.md)
+	- [2.1 Jira](UD2/jira.md)
 	
 - UD4 **Herramientas de trabajo colaborativo:** 
 	- Control de versiones
 		- **Git/GitHub**
+		- Clientes Git gráficos
+		- [Integración de Git con Jira](UD4/gitjira.md)
 	- Comunicación en equipo
 		- Email
 		- Slack
