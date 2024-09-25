@@ -100,5 +100,4 @@ Planificar y organizar un proyecto es clave para su éxito. Los ciclos de vida d
 
 1. **Actividad práctica 1:** Elegir un proyecto ficticio y definir los objetivos usando el método SMART.
 2. **Actividad práctica 2:** Descomponer el proyecto en entregas intermedias y finales.
-3. **Actividad práctica 3:** Crear un cronograma básico con las tareas necesarias y asignar plazos usando un diagrama de Gantt (pueden usar software como **Trello** o **Jira**).
-
+3. **Actividad práctica 3:** Crear un cronograma básico con las tareas necesarias y asignar plazos usando un diagrama de Gantt (pueden usar software como **Trello** o **[Jira](../UD2/jira.md)**).

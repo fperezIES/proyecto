@@ -45,9 +45,7 @@ Durante este primer trimestre, los alumnos aprenderán a:
 		- [Kanban](UD1/kanban.md)
 		
 - UD2 **Utilizar herramientas de gestión de proyectos:** Organizar tareas, establecer prioridades y asignar responsabilidades.	
-	- Jira
-	- Trello
-	- Asana
+	- [Jira](UD2/jira.md)
 	
 - UD4 **Herramientas de trabajo colaborativo:** 
 	- Control de versiones

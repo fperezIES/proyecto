@@ -21,6 +21,8 @@
    - Identificar las partes interesadas (**stakeholders**).
    - Evaluar la **viabilidad** del proyecto.
    - Redactar el **acta de constitución** del proyecto.
+	   - Objetivos 
+	   - Justificación
 
 --
 
