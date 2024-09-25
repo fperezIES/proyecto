@@ -82,7 +82,7 @@ Los **plazos** son las fechas límite para completar tareas o entregar productos
 
 - Descomponer el proyecto en tareas más pequeñas.
 - Asignar plazos a cada tarea teniendo en cuenta la duración estimada y los recursos disponibles.
-- Crear un **cronograma**, que es una representación gráfica del tiempo disponible para completar cada tarea. Herramientas como diagramas de Gantt pueden ser útiles para visualizar y gestionar los plazos.
+- Crear un **cronograma**, que es una representación gráfica del tiempo disponible para completar cada tarea. Herramientas como [diagramas de Gantt](diagrama_gantt.md) pueden ser útiles para visualizar y gestionar los plazos.
 
 **Beneficios de respetar los plazos:**
 

@@ -27,6 +27,7 @@ A continuación, se propone una estructura básica y contenidos sugeridos para e
 
 El proyecto deberá cubrir todos los aspectos de los contenidos, activando los resultados de aprendizaje de los diferentes módulos. De esta forma, el proyecto intermodular servirá como una forma de aplicar los conocimientos en un contexto práctico y realista, preparando a los alumnos para su futuro profesional .
 
+
 ### Primer Trimestre
 
 Durante el primer trimestre el alumnado no habrá podido adquirir todavía las competencias necesarias para comenzar con el desarrollo del proyecto. Así que nos centraremos en enseñar **teoría de proyectos, gestión de proyectos y herramientas colaborativas** sentará una base sólida que será crucial para cuando los alumnos adquieran las competencias técnicas necesarias.
@@ -36,9 +37,10 @@ Abordar estos temas desde el principio, no solo mejorará la organización de lo
 Durante este primer trimestre, los alumnos aprenderán a:
 
 - UD1 **Teoría de proyectos:** 
-	- [1.1 Planificación y Organización de Proyectos](UD1/proyectos.md)
+	- [1.1 Planificación y Organización de Proyectos](UD1/planificacion_proyectos.md)
+		- [Diagramas Gantt](UD1/diagrama_gantt.md)
 	- [1.2 Ciclos de vida de proyectos de software](UD1/life_cycle_software.md)
-	- [1.3 Metodologías ágiles](UD1/metodologiasagiles.md)
+	- [1.3 Metodologías ágiles](UD1/metodologias_agiles.md)
 		- [Scrum](UD1/scrum.md)
 		- [Kanban](UD1/kanban.md)
 		

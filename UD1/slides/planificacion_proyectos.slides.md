@@ -5,8 +5,8 @@
 ---
 
 ## ¿Qué es un proyecto?
-- Un proyecto es un conjunto de actividades planificadas que tienen como finalidad alcanzar un objetivo específico.
-- Los proyectos son temporales y únicos.
+- Un proyecto es un conjunto de actividades planificadas que tienen como finalidad alcanzar un **objetivo** específico.
+- Los proyectos son **temporales y únicos**.
 - Ejemplos de proyectos:
   - Desarrollar una aplicación móvil.
   - Implementar una nueva red informática.
@@ -17,18 +17,18 @@
 ### Ciclo de vida de un proyecto
 
 1. **Inicio del proyecto:**
-   - Definir la idea principal del proyecto.
-   - Identificar las partes interesadas (stakeholders).
-   - Evaluar la viabilidad del proyecto.
-   - Redactar el acta de constitución del proyecto.
+   - Definir la **idea** principal del proyecto.
+   - Identificar las partes interesadas (**stakeholders**).
+   - Evaluar la **viabilidad** del proyecto.
+   - Redactar el **acta de constitución** del proyecto.
 
 --
 
 2. **Planificación:**
-   - Definir objetivos claros y medibles.
-   - Descomponer el proyecto en tareas.
-   - Identificar recursos y elaborar cronograma.
-   - Realizar un análisis de riesgos.
+   - Definir **objetivos** claros y medibles.
+   - Descomponer el proyecto en **tareas**.
+   - Identificar **recursos** y elaborar **cronograma**.
+   - Realizar un **análisis de riesgos**.
 
 --
 
@@ -36,21 +36,21 @@
    - Llevar a cabo las actividades planificadas.
    - Coordinar recursos y supervisar el avance.
 4. **Seguimiento y control:**
-   - Medir el rendimiento y ajustar tareas si es necesario.
-   - Controlar costos, plazos y calidad de entregas.
+   - **Medir** el rendimiento y **ajustar** tareas si es necesario.
+   - Controlar **costos, plazos y calidad** de entregas.
 5. **Cierre del proyecto:**
-   - Verificar el cumplimiento de objetivos.
-   - Documentar el proyecto y realizar evaluación final.
+   - **Verificar** el cumplimiento de objetivos.
+   - **Documentar** el proyecto y realizar evaluación final.
 
 ---
 
 ## Importancia de los objetivos
 - Los objetivos deben seguir el método **SMART**:
-  - Específicos (Specific)
-  - Medibles (Measurable)
-  - Alcanzables (Achievable)
-  - Relevantes (Relevant)
-  - Limitados en el tiempo (Time-bound)
+  - Específicos (**S**pecific)
+  - Medibles (**M**easurable)
+  - Alcanzables (**A**chievable)
+  - Relevantes (**R**elevant)
+  - Limitados en el tiempo (**T**ime-bound)
 
 ---
 
@@ -64,8 +64,14 @@
 
 ## Plazos y cronogramas
 - Los plazos son fechas límite para completar tareas.
-- Un cronograma ayuda a visualizar las tareas y plazos.
+- Un **cronograma** ayuda a visualizar las tareas y plazos.
 - Respetar los plazos beneficia al cliente, evita sobrecostos y mantiene la motivación del equipo.
+
+--
+
+### Diagrama de Gantt
+
+![](../img/gantt_diagram_jira.png)
 
 ---
 
