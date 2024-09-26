@@ -36,6 +36,34 @@ Imagina que estás gestionando un proyecto para desarrollar una aplicación. Pod
 
 El uso de un diagrama de Gantt es fundamental en la gestión de proyectos para asegurar que se cumplen los plazos y que todas las partes implicadas están alineadas con el progreso y la planificación del proyecto.
 
+### Ejemplo práctico en Excel
+Nos han encargado realizar un programa para una asociación de artistas pintoresque desean publicar sus obras en un sitio web propio. 
+La web deberá contener los siguientes apartados:
+- En la página inicial se mostrará una presentación del sitio y las últimas novedades.
+- Habrá otro apartado donde se publicará una galería temporal con obras seleccionadas de diferentes artistas.
+- En otro apartado se mostrará todas las obras del sitio y a las que se les podrá aplicar diferentes filtros para seleccionarlas.
+- Por último, se permitirá que se registren nuevos artistas, loguearse, subir imágenes de sus obras y gestionarlas.
+
+Primero vamos a establecer las diferentes tareas que se pueden realizar estableciendo el número de días que se necesitará para realizarlas:
+1. Diseño de la página inicial o home -> 2 días
+2. Publicación de la galería temporal -> 1 día
+3. Publicación de todas las obras con filtros -> 4 días
+4. Registro de artistas y loguear -> 1 día
+5. Subir imágenes de las obras -> 1 día
+6. Gestión de las imágenes por los artistas y administradores -> 2 días
+7. Pruebas -> 2 días
+8. Documentación -> 2 días
+
+Nota: Hay muchos aspectos que no se han tenido en cuenta para simplificar el ejercicio como la comprobación del tamaño de las imágenes, si hay diferentes tipos de usuarios, cómo se gestiona la galería, etc.
+
+Suponiendo que solamente trabajara una persona, podemos obtener el siguiente diagrama:
+
+![](img/gantt_1_trabajador.png){:class="center"}
+
+Mientras que si disponemos de 2 trabajadores, podemos reorganizar el trabajo para repartir las tareas y pasar de tardar 15 días, a realizarlo en 8 días:
+
+![](img/gantt_2_trabajadores.png){:class="center"}
+
 
 ---
 
