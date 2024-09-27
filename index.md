@@ -47,11 +47,11 @@ Durante este primer trimestre, los alumnos aprenderán a:
 - UD2 **Utilizar herramientas de gestión de proyectos:** Organizar tareas, establecer prioridades y asignar responsabilidades.	
 	- [2.1 Jira](UD2/jira.md)
 	
-- UD4 **Herramientas de trabajo colaborativo:** 
+- UD3 **Herramientas de trabajo colaborativo:** 
 	- Control de versiones
 		- **Git/GitHub**
 		- Clientes Git gráficos
-		- [Integración de Git con Jira](UD4/gitjira.md)
+		- [Integración de Git con Jira](UD3/gitjira.md)
 	- Comunicación en equipo
 		- Email
 		- Slack
@@ -59,8 +59,8 @@ Durante este primer trimestre, los alumnos aprenderán a:
 		- Google Docs
 		- Office 365
 	
-- UD5 **Documentación y reportes:** 
+- UD4 **Documentación y reportes:** 
 	- Explicar la importancia de documentar correctamente los avances, problemas y soluciones en un proyecto, utilizando herramientas como Google Docs o Notion.
 	
-- UD6 **Presentaciones**
-	- [Estructura de presentaciones](UD6/presentaciones.md)
+- UD5 **Presentaciones**
+	- [Estructura de presentaciones](UD5/presentaciones.md)
