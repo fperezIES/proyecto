@@ -14,7 +14,7 @@ En el marco de trabajo DevOps el equipo de desarrollo y de operaciones de TI col
 En DevOps el ciclo de vida no es un proceso lineal con un final, sino que cada fase es contínua y se retroalimenta del resto de fases. Por ello, se utiliza un bucle infinito para representar esas fases y cómo se relacionan entre sí. Este bucle representa la necesidad de mejora y colaboración constante en cada iteración a lo largo de todo el ciclo de vida del producto.
  
 <p align="center">
-  <img src="devopsJ.png">
+  <img src="img/devopsJ.png">
 </p>
 
 En DevOps se pueden identificar las siguientes fases:
