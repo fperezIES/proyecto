@@ -69,7 +69,7 @@ A continuación vamos ver dos ejemplos marcos de trabajo ágiles que se pueden u
 
 - [Scrum](./scrum.md)
 - [Kanban](./kanban.md)
-- DevOps
+- [DevOps](./devops.md)
 
 
 
