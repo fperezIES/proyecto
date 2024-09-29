@@ -43,7 +43,7 @@ Durante este primer trimestre, los alumnos aprenderán a:
 	- [1.3 Metodologías ágiles](UD1/metodologias_agiles.md)
 		- [Scrum](UD1/scrum.md)
 		- [Kanban](UD1/kanban.md)
-                - [DevOps](UD1/devops.md)
+  - [DevOps](UD1/devops.md)
 		
 - UD2 **Utilizar herramientas de gestión de proyectos:** Organizar tareas, establecer prioridades y asignar responsabilidades.	
 	- [2.1 Jira](UD2/jira.md)
