@@ -16,7 +16,7 @@ DevOps implica un conjunto de **prácticas, herramientas y filosofía** que perm
 
 En DevOps cada fase es continua y se retroalimenta del resto. Se representa mediante un bucle infinito, reflejando la mejora constante.
 
-![](img/devopsJ.png)
+![DevOps](../img/devopsJ.png)
 
 --
 
