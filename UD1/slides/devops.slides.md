@@ -20,7 +20,7 @@ En DevOps cada fase es continua y se retroalimenta del resto. Se representa medi
 
 --
 
-### Fases:
+
 
 1. **Planificación**: Definir objetivos, requisitos y tareas. Herramientas: Jira, Trello.
 2. **Codificación**: Desarrollo del código con control de versiones. Herramientas: GitHub, GitLab.
@@ -57,16 +57,15 @@ En DevOps cada fase es continua y se retroalimenta del resto. Se representa medi
 
 ## Ventajas y desafíos de DevOps
 
-**Ventajas:**
-- Mayor velocidad de entrega.
-- Mejora en la calidad del software.
-- Colaboración mejorada entre equipos.
-- Reducción de costos.
-
-**Desafíos:**
-- Cambio cultural necesario.
-- Complejidad en la integración de herramientas.
-- Aumento de la superficie de ataque en la entrega continua (**DevSecOps**).
+- **Ventajas:**
+	- Mayor velocidad de entrega.
+	- Mejora en la calidad del software.
+	- Colaboración mejorada entre equipos.
+	- Reducción de costos.
+- **Desafíos:**
+	- Cambio cultural necesario.
+	- Complejidad en la integración de herramientas.
+	- Aumento de la superficie de ataque en la entrega continua (**DevSecOps**).
 
 ---
 
