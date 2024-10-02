@@ -34,7 +34,7 @@ Durante el primer trimestre el alumnado no habrá podido adquirir todavía las c
 
 Abordar estos temas desde el principio, no solo mejorará la organización de los estudiantes cuando comiencen los desarrollos técnicos, sino que también aprenderán a trabajar de forma eficiente en equipos, lo cual es fundamental en el entorno laboral real.
 
-Durante este primer trimestre, los alumnos aprenderán a:
+Durante este primer trimestre, los alumnos aprenderán:
 
 - UD1 **Teoría de proyectos:** 
 	- [1.1 Planificación y Organización de Proyectos](UD1/proyectos.md)
@@ -44,16 +44,15 @@ Durante este primer trimestre, los alumnos aprenderán a:
 		- [Scrum](UD1/scrum.md)
 		- [Kanban](UD1/kanban.md)
 		- [DevOps](UD1/devops.md)
-		
-- UD2 **Utilizar herramientas de gestión de proyectos:** Organizar tareas, establecer prioridades y asignar responsabilidades.	
+		- [Versionado semántico](UD1/semver.md) 
+- UD2 **Herramientas de gestión de proyectos:** 
 	- [2.1 Jira](UD2/jira.md)
-	
 - UD3 **Herramientas de trabajo colaborativo:** 
 	- Control de versiones
 		- **Git/GitHub**
 		- Clientes Git gráficos
 		- [Integración de Git con Jira](UD3/gitjira.md)
-	- Comunicación en equipo
+		- Comunicación en equipo
 		- Email
 		- Slack
 	- Documentos colaborativos
