@@ -12,10 +12,10 @@ Al adoptar DevOps se adopta un conjunto de prácticas, herramientas y filosofía
 En el marco de trabajo DevOps el equipo de desarrollo y de operaciones de TI colaboran durante todo el ciclo de vida de un producto. 
 
 En DevOps el ciclo de vida no es un proceso lineal con un final, sino que cada fase es contínua y se retroalimenta del resto de fases. Por ello, se utiliza un bucle infinito para representar esas fases y cómo se relacionan entre sí. Este bucle representa la necesidad de mejora y colaboración constante en cada iteración a lo largo de todo el ciclo de vida del producto.
- 
-<p align="center">
-  <img src="img/devopsJ.png">
-</p>
+
+
+![](img/devopsJ.png){:class="center"}
+
 
 En DevOps se pueden identificar las siguientes fases:
 
@@ -56,6 +56,34 @@ Las fases del ciclo de vida en DevOps se agrupan en lo que se conoce como las 7C
    
 7. **Operaciones contínuas**: las operaciones continuas tienen como objetivo minimizar el tiempo de inactividad y evitar interrupciones en el servicio a los usuarios. Se intenta optimizar las aplicaciones y entornos para obtener una mayor estabilidad y rendimiento. También contribuye a alimentar la fase de planificación mediante informes de errores y mejoras planteadas por los usuarios.
 
+
+## Herramientas clave de DevOps
+
+Para implementar correctamente DevOps, se utilizan varias herramientas que ayudan a automatizar y gestionar cada una de las fases del ciclo de vida del software. Algunas de las más utilizadas son:
+
+- **Control de versiones:** Git, GitLab, Bitbucket.
+- **Automatización de CI/CD:** Jenkins, GitLab CI, Travis CI.
+- **Infraestructura como código (IaC):** Ansible, Terraform, Chef, Puppet.
+- **Contenedores:** Docker, Kubernetes.
+- **Monitoreo y análisis:** Prometheus, ELK Stack (Elasticsearch, Logstash, Kibana), Grafana.
+
+Estas herramientas permiten automatizar procesos que tradicionalmente se hacían de forma manual, ahorrando tiempo y reduciendo la posibilidad de errores humanos.
+
+
+## Ventajas y desafíos de DevOps
+
+**Ventajas:**
+
+- **Mayor velocidad de entrega:** Al automatizar el despliegue y la integración de código, se pueden realizar entregas más rápidas y con menos errores.
+- **Mejora en la calidad del software:** Las pruebas automáticas y el monitoreo continuo permiten identificar problemas antes de que lleguen a producción.
+- **Colaboración mejorada:** DevOps fomenta la colaboración y la comunicación entre equipos de desarrollo y operaciones.
+- **Reducción de costos:** Al identificar y solucionar problemas rápidamente, se reducen los costos asociados a la resolución de fallos en producción.
+
+**Desafíos:**
+
+- **Cultura organizacional:** Implementar DevOps requiere un cambio cultural en la empresa, ya que se debe fomentar la colaboración entre equipos que tradicionalmente no trabajaban juntos.
+- **Complejidad en la integración de herramientas:** No todas las herramientas de DevOps son fáciles de integrar y puede requerir conocimientos avanzados.
+- **Seguridad:** El enfoque de entrega continua puede aumentar la superficie de ataque, por lo que es necesario integrar la seguridad desde las primeras fases del desarrollo (**DevSecOps**).
 
 ---
 
