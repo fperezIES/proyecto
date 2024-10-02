@@ -56,20 +56,6 @@ Las fases del ciclo de vida en DevOps se agrupan en lo que se conoce como las 7C
    
 7. **Operaciones contínuas**: las operaciones continuas tienen como objetivo minimizar el tiempo de inactividad y evitar interrupciones en el servicio a los usuarios. Se intenta optimizar las aplicaciones y entornos para obtener una mayor estabilidad y rendimiento. También contribuye a alimentar la fase de planificación mediante informes de errores y mejoras planteadas por los usuarios.
 
-
-## Herramientas clave de DevOps
-
-Para implementar correctamente DevOps, se utilizan varias herramientas que ayudan a automatizar y gestionar cada una de las fases del ciclo de vida del software. Algunas de las más utilizadas son:
-
-- **Control de versiones:** Git, GitLab, Bitbucket.
-- **Automatización de CI/CD:** Jenkins, GitLab CI, Travis CI.
-- **Infraestructura como código (IaC):** Ansible, Terraform, Chef, Puppet.
-- **Contenedores:** Docker, Kubernetes.
-- **Monitoreo y análisis:** Prometheus, ELK Stack (Elasticsearch, Logstash, Kibana), Grafana.
-
-Estas herramientas permiten automatizar procesos que tradicionalmente se hacían de forma manual, ahorrando tiempo y reduciendo la posibilidad de errores humanos.
-
-
 ## Ventajas y desafíos de DevOps
 
 **Ventajas:**

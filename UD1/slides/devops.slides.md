@@ -20,16 +20,25 @@ En DevOps cada fase es continua y se retroalimenta del resto. Se representa medi
 
 --
 
-
-
-1. **Planificación**: Definir objetivos, requisitos y tareas. Herramientas: Jira, Trello.
-2. **Codificación**: Desarrollo del código con control de versiones. Herramientas: GitHub, GitLab.
-3. **Construcción**: Compilación del código. Herramientas: Docker, Ansible, Puppet.
-4. **Pruebas**: Automatización de pruebas para detectar errores. Herramientas: JUnit, Selenium.
+1. **Planificación**: Definir objetivos, requisitos y tareas. 
+2. **Codificación**: Desarrollo del código con control de versiones. 
+3. **Construcción**: Compilación del código.
+4. **Pruebas**: Automatización de pruebas para detectar errores.  
 5. **Liberación (Release)**: Entrega de una versión lista para producción.
 6. **Despliegue o Implementación**: Envío del software al entorno de producción.
 7. **Operaciones**: Gestión de entornos de desarrollo, pruebas, pre-producción y producción.
 8. **Monitorización y Retroalimentación**: Uso de herramientas como Grafana y Prometheus.
+
+--
+
+## Herramientas clave de DevOps
+
+- **Planificación**: Jira, Trello.
+- **Control de versiones:** Git, GitLab, Bitbucket.
+- **Automatización de CI/CD:** JUnit, Jenkins, GitLab CI, Travis CI, Selenium.
+- **Infraestructura como código (IaC):** Docker, Ansible, Terraform, Chef, Puppet.
+- **Contenedores:** Docker, Kubernetes.
+- **Monitoreo y análisis:** Prometheus, ELK Stack (Elasticsearch, Logstash, Kibana), Grafana.
 
 ---
 
@@ -42,16 +51,6 @@ En DevOps cada fase es continua y se retroalimenta del resto. Se representa medi
 5. **Retroalimentación continua**: Recolección de feedback para mejorar.
 6. **Monitorización continua**: Supervisión de aplicaciones y sistemas.
 7. **Operaciones continuas**: Mantenimiento de estabilidad y rendimiento.
-
----
-
-## Herramientas clave de DevOps
-
-- **Control de versiones:** Git, GitLab, Bitbucket.
-- **Automatización de CI/CD:** Jenkins, GitLab CI, Travis CI.
-- **Infraestructura como código (IaC):** Ansible, Terraform, Chef, Puppet.
-- **Contenedores:** Docker, Kubernetes.
-- **Monitoreo y análisis:** Prometheus, ELK Stack (Elasticsearch, Logstash, Kibana), Grafana.
 
 ---
 
