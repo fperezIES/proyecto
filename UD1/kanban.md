@@ -33,10 +33,10 @@ Algunos de los principales principios de la metodología Kanban son:
 
 Kanban tiene algunas similitudes con la metodología Scrum, ya que ambas son metodologías ágiles: ambas requieren equipos colaborativos y autogestionados, y ambas se enfocan en lanzar software con mucha frecuencia. Sin embargo, existen algunas diferencias importantes entre ellas:
 
-| **Kanban**                         | **Scrum**                          |
-| ----------------------------------- | ----------------------------------- |
-| No tiene roles prescritos           | ScrumMaster, Product Owner, etc.    |
-| Entregas continuas                  | Sprints con límites de tiempo       |
+| **Kanban**                          | **Scrum**                          |
+| ----------------------------------- | -----------------------------------|
+| No tiene roles prescritos           | ScrumMaster, Product Owner, etc.   |
+| Entregas continuas                  | Sprints con límites de tiempo      |
 | Se pueden hacer cambios en cualquier momento | No se permiten cambios durante el sprint |
 
 Ambas metodologías se pueden aplicar al mismo tiempo. Scrum es más adecuado para dar retroalimentación al equipo y en la planificación a corto plazo, mientras que Kanban puede ser utilizado para el trabajo diario o en entornos con un alto grado de variabilidad en las prioridades.
