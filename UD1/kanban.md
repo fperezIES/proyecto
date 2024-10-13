@@ -39,6 +39,7 @@ Kanban tiene algunas similitudes con la metodología Scrum, ya que ambas son met
 | Entregas continuas                           | Sprints con límites de tiempo            |
 | Se pueden hacer cambios en cualquier momento | No se permiten cambios durante el sprint |
 
+
 Ambas metodologías se pueden aplicar al mismo tiempo. Scrum es más adecuado para dar retroalimentación al equipo y en la planificación a corto plazo, mientras que Kanban puede ser utilizado para el trabajo diario o en entornos con un alto grado de variabilidad en las prioridades.
 
 ---
