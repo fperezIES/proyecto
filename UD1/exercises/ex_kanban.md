@@ -13,7 +13,7 @@ El objetivo de esta tarea es que aprendas a utilizar **Jira** y el método **Kan
 ### 2. **Crea un proyecto Kanban**
    - En el menú principal de Jira, selecciona la opción de crear un nuevo proyecto.
    - **Tipo de proyecto**: Elige la opción *Kanban*.
-   - **Configuración**: Selecciona la opción "gestionado por el equipo" (esto te permitirá modificar el flujo de trabajo y adaptarlo a tus necesidades).
+   - **Configuración**: Selecciona la opción "gestionado por la empresa" (esto te permitirá modificar el flujo de trabajo y adaptarlo a tus necesidades).
    
 ### 3. **Configura el tablero**
    El tablero Kanban te permitirá visualizar las tareas en diferentes fases de progreso. Organiza tu flujo de trabajo añadiendo las columnas que consideres necesarias para reflejar tu proceso de trabajo.
