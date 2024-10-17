@@ -45,6 +45,10 @@ Durante este primer trimestre, los alumnos aprenderán:
 		- [Kanban](UD1/kanban.md)
 		- [DevOps](UD1/devops.md)
 		- [Versionado semántico](UD1/semver.md) 
+
+Ejercicios UD1:
+	[Ejercicio Kanban](UD1/exercises/ex_kanban.md)
+
 - UD2 **Herramientas de gestión de proyectos:** 
 	- [2.1 Jira](UD2/jira.md)
 - UD3 **Herramientas de trabajo colaborativo:** 
@@ -52,14 +56,14 @@ Durante este primer trimestre, los alumnos aprenderán:
 		- **Git/GitHub**
 		- Clientes Git gráficos
 		- [Integración de Git con Jira](UD3/gitjira.md)
-		- Comunicación en equipo
+	- Comunicación en equipo
 		- Email
 		- Slack
 	- Documentos colaborativos
 		- Google Docs
 		- Office 365
 	
-- UD4 **Documentación y reportes:** 
+- UD4 **Informes y Documentación :** 
 	- Explicar la importancia de documentar correctamente los avances, problemas y soluciones en un proyecto, utilizando herramientas como Google Docs o Notion.
 	
 - UD5 **Presentaciones**
