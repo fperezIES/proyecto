@@ -85,3 +85,10 @@ Una vez que hayas configurado cualquiera de las integraciones (Bitbucket o GitHu
 Tanto **Bitbucket** como **GitHub** se integran fácilmente con **Jira** en la versión gratuita, permitiendo una sincronización fluida entre el código y la gestión de proyectos. La integración te permitirá realizar un seguimiento del desarrollo del software directamente desde Jira, agilizando el flujo de trabajo y asegurando que cada issue esté correctamente asociado al código que se está trabajando.
 
 Esta integración es especialmente útil en proyectos colaborativos, ya que proporciona a los desarrolladores y gestores de proyectos visibilidad completa sobre el progreso y la calidad del código en tiempo real.
+
+
+
+
+https://www.atlassian.com/es/software/jira/automation-template-library/bitbucket-github-gitlab
+
+[GitHub for Jira](https://marketplace.atlassian.com/apps/1219592/github-for-jira?hosting=cloud&tab=overview)
