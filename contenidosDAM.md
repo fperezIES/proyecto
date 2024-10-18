@@ -1,5 +1,5 @@
 
-### Contenidos del Proyecto Intermodular de DAM
+# Contenidos del Proyecto Intermodular de DAM
 
 1. **Análisis de requisitos:**    
     - Elaboración de un documento de requisitos del sistema o aplicación a desarrollar.

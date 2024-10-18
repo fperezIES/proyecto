@@ -1,4 +1,4 @@
-### Contenidos del Proyecto Intermodular en DAW
+# Contenidos del Proyecto Intermodular en DAW
 
 1. **Análisis de requisitos y diseño funcional:**    
     - Definir los requisitos del sistema, elaborando historias de usuario, casos de uso o diagramas funcionales.

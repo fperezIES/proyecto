@@ -1,11 +1,11 @@
 
-## Ciclos de vida del software
+# Ciclos de vida del software
 
-### 1. Ingeniería de software
+## 1. Ingeniería de software
 
 Para desarrollar software correctamente, debemos seguir una serie de pasos o un enfoque específico para este desarrollo. La **ingeniería de software** es la rama de la informática que nos ayuda a seguir estos enfoques y pasos de manera adecuada.
 
-#### 1.1. Etapas del desarrollo de software
+### 1.1. Etapas del desarrollo de software
 
 En (casi) todos los procesos de ingeniería de software, podemos seguir estos pasos:
 
@@ -21,7 +21,7 @@ Resumiendo estas etapas, la ingeniería de software nos proporciona un enfoque q
 
 No obstante, estos pasos pueden ser un obstáculo en algunos casos, ya que muchos desarrolladores consideran que la ingeniería de software es demasiado estructurada y no permite desarrollar software rápidamente. Sin embargo, debemos verla como algo adaptable, que ofrece diferentes modelos y metodologías ajustables a nuestro proceso de desarrollo, como veremos más adelante.
 
-### 2. Ciclos de vida del software
+## 2. Ciclos de vida del software
 
 Un ciclo de vida es una lista de etapas por las que debe pasar un sistema (en este caso, un proyecto de software) desde su inicio hasta que deja de usarse. En cada ciclo de vida se definen tanto las etapas como los requisitos para pasar de una a otra, incluyendo las entradas y salidas esperadas de cada etapa.
 
@@ -31,7 +31,7 @@ Algunos ciclos de vida son repetitivos, es decir, podemos pasar por la misma eta
 
 A continuación, veremos algunos de los ciclos de vida más comunes en el desarrollo de software, con sus ventajas y desventajas. En todos ellos encontraremos las etapas mencionadas (análisis de requisitos, diseño, implementación...), o alguna variación de ellas.
 
-#### 2.1. Modelo en cascada o waterfall
+### 2.1. Modelo en cascada o waterfall
 
 Este es el modelo más antiguo y más extendido. Fue creado por W. Royce en los años 70 y organiza rigurosamente las etapas del desarrollo de software, de manera que una fase no comienza hasta que la anterior ha terminado.
 
@@ -57,7 +57,7 @@ Se le llama modelo _cascada_ porque las etapas se sitúan una debajo de la otra,
 
 Existen algunas variaciones de este modelo, como el **modelo Sashimi**, donde las etapas se solapan, como lo hace el pescado en la cocina japonesa. En este modelo, hay un solapamiento entre dos fases consecutivas, de manera que se empieza la fase de _diseño_ mientras se terminan de definir los requisitos (y se pueden modificar conforme avanzamos con el diseño), y comenzamos la implementación mientras finalizamos el diseño (permitiendo mejorar el diseño ante posibles problemas detectados durante la implementación).
 
-#### 2.2. Modelo en V
+### 2.2. Modelo en V
 
 Uno de los principales problemas del modelo en cascada es que los fallos no se detectan hasta las fases finales del proceso. En el modelo en V, las pruebas comienzan lo antes posible y se realizan en paralelo por otro equipo de trabajo. De este modo, las pruebas se integran en cada etapa del ciclo de vida.
 
@@ -79,7 +79,7 @@ La rama izquierda de la V representa el análisis de requisitos, el diseño y la
 - El usuario no ve ningún resultado hasta las etapas finales, ya que no se desarrollan prototipos intermedios.
 - A veces es complicado volver de la rama derecha a la izquierda para corregir problemas.
 
-#### 2.3. Modelo iterativo
+## 2.3. Modelo iterativo
 
 Los modelos anteriores solo son adecuados para proyectos con requisitos fáciles y bien especificados, pero esto no es habitual en proyectos de software reales. Para intentar mejorar esto, el modelo iterativo repite el modelo en cascada, generando una versión intermedia o prototipo tras cada iteración. Este prototipo puede ser revisado por el cliente, permitiendo detectar problemas antes y mejorar el sistema.
 

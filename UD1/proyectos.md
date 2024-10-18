@@ -1,6 +1,6 @@
-### Planificación y Organización de Proyectos
+# Planificación y Organización de Proyectos
 
-#### 1. ¿Qué es un proyecto?
+## 1. ¿Qué es un proyecto?
 
 Un **proyecto** es un conjunto de actividades planificadas que tienen como finalidad alcanzar un objetivo específico. Estos objetivos suelen estar relacionados con la creación de un producto, servicio o resultado. Un proyecto se caracteriza por ser **temporal** (tiene un inicio y un final) y por ser único (el resultado es distinto de lo que se ha hecho antes).
 
@@ -10,7 +10,7 @@ Un **proyecto** es un conjunto de actividades planificadas que tienen como final
 - Implementar una nueva red informática en una empresa.
 - Crear un sistema de gestión de inventarios.
 
-#### 2. Ciclo de vida de un proyecto
+## 2. Ciclo de vida de un proyecto
 
 El **ciclo de vida de un proyecto** se refiere a las fases o etapas por las que pasa un proyecto desde su inicio hasta su finalización. Entender este ciclo es fundamental para planificar y organizar correctamente un proyecto.
 
@@ -59,7 +59,7 @@ Los objetivos **SMART** deben ser:
 - **R** (Relevant) - Relevantes: Deben estar alineados con la estrategia o necesidades del cliente o de la organización.
 - **T** (Time-bound) - Limitados en el tiempo: Deben tener un plazo o fecha límite de entrega (por ejemplo, "completar el proyecto antes del 15 de junio").
 
-#### 4. Entregas (*deliverables*) y su importancia
+## 4. Entregas (*deliverables*) y su importancia
 
 Las **entregas** o **deliverables** son los resultados concretos que el proyecto debe producir. Pueden ser productos, servicios, informes, prototipos, entre otros. Cada entrega es un paso hacia la consecución del objetivo final del proyecto.
 
@@ -74,7 +74,7 @@ Las **entregas** o **deliverables** son los resultados concretos que el proyecto
 - Aseguran que se cumplan los requisitos del cliente o usuario.
 - Facilitan la gestión del proyecto, ya que se pueden identificar problemas y tomar acciones correctivas antes de la entrega final.
 
-#### 5. Plazos y cronogramas
+## 5. Plazos y cronogramas
 
 Los **plazos** son las fechas límite para completar tareas o entregar productos dentro del proyecto. Tener plazos claros es crucial para evitar retrasos y asegurarse de que el proyecto se complete a tiempo.
 
@@ -90,13 +90,13 @@ Los **plazos** son las fechas límite para completar tareas o entregar productos
 - Evitar sobrecostos.
 - Mantener la motivación del equipo de trabajo.
 
-#### 6. Conclusión
+## 6. Conclusión
 
 Planificar y organizar un proyecto es clave para su éxito. Los ciclos de vida de un proyecto ayudan a estructurar el trabajo y permiten que se avance de manera controlada y efectiva. Definir objetivos claros, entregas bien especificadas y plazos realistas asegura que el proyecto se mantenga en curso y se complete a tiempo, dentro del presupuesto y con los resultados esperados.
 
 ---
 
-### Tareas :
+## Tareas :
 
 1. **Actividad práctica 1:** Elegir un proyecto ficticio y definir los objetivos usando el método SMART.
 2. **Actividad práctica 2:** Descomponer el proyecto en entregas intermedias y finales.
