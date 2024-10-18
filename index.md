@@ -65,8 +65,17 @@ A partir del segundo trimestre se comenzará a trabajar en grupos para realizar 
 	- Google Docs
 	- Office 365
 
-### UD3 **Informes y Documentación :** 
-	- Explicar la importancia de documentar correctamente los avances, problemas y soluciones en un proyecto, utilizando herramientas como Google Docs o Notion.
-	
+### UD3 **Documentación e informes** 
+
+- Requisitos: Product backlog
+- Informes de avance: Sprint Review y Retrospectiva
+- Documentación técnica
+	- Documentos de diseño
+	- Plan de pruebas
+	- Guía de instalación y despliegue
+	- Documentación del código
+- Manual de usuario
+- Memoria final
+
 ### UD4 **Presentaciones**
 - [Estructura de presentaciones](UD4/presentaciones.md)
