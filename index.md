@@ -1,7 +1,6 @@
 
-# Proyecto Intermodular
 
-## Introducción
+# Introducción
 
 El **Proyecto Intermodular** en primer curso debe centrarse en integrar las diversas competencias adquiridas en los módulos profesionales impartidos a lo largo del año. Este módulo tendrá continuidad en segundo curso.
 
@@ -17,7 +16,7 @@ El **Proyecto Intermodular** en primer curso debe centrarse en integrar las dive
 - **Seguimiento continuo:** Evaluación progresiva del trabajo en grupo e individual.
 - **Calificación final individual:** Basada en la contribución de cada alumno en el desarrollo del proyecto, la documentación presentada y la defensa oral.
 
-## Contenidos del Proyecto Intermodular
+## Estructra del Proyecto Intermodular
 
 A continuación, se propone una estructura básica y contenidos sugeridos para este módulo para los diferentes ciclos:
 
@@ -28,43 +27,46 @@ A continuación, se propone una estructura básica y contenidos sugeridos para e
 El proyecto deberá cubrir todos los aspectos de los contenidos, activando los resultados de aprendizaje de los diferentes módulos. De esta forma, el proyecto intermodular servirá como una forma de aplicar los conocimientos en un contexto práctico y realista, preparando a los alumnos para su futuro profesional .
 
 
-## Primer Trimestre
+## Metodología
 
 Durante el primer trimestre el alumnado no habrá podido adquirir todavía las competencias necesarias para comenzar con el desarrollo del proyecto. Así que nos centraremos en enseñar **teoría de proyectos, gestión de proyectos y herramientas colaborativas** sentará una base sólida que será crucial para cuando los alumnos adquieran las competencias técnicas necesarias.
 
 Abordar estos temas desde el principio, no solo mejorará la organización de los estudiantes cuando comiencen los desarrollos técnicos, sino que también aprenderán a trabajar de forma eficiente en equipos, lo cual es fundamental en el entorno laboral real.
 
-Durante este primer trimestre, los alumnos aprenderán:
+A partir del segundo trimestre se comenzará a trabajar en grupos para realizar un proyecto de forma conjunta usando las herramientas que habrán sido introducidas durante el primer trimestre.
 
-- UD1 **Teoría de proyectos:** 
-	- [1.1 Planificación y Organización de Proyectos](UD1/proyectos.md)
-		- [Diagramas Gantt](UD1/diagrama_gantt.md)
-	- [1.2 Ciclos de vida de proyectos de software](UD1/life_cycle_software.md)
-	- [1.3 Metodologías ágiles](UD1/metodologias_agiles.md)
-		- [Scrum](UD1/scrum.md)
-		- [Kanban](UD1/kanban.md)
-		- [DevOps](UD1/devops.md)
-		- [Versionado semántico](UD1/semver.md) 
+# Unidades didácticas
 
-Ejercicios UD1:
-	[Ejercicio Kanban](UD1/exercises/ex_kanban.md)
+### UD1 **Teoría de proyectos:** 
 
-- UD2 **Herramientas de gestión de proyectos:** 
-	- [2.1 Jira](UD2/jira.md)
-- UD3 **Herramientas de trabajo colaborativo:** 
-	- Control de versiones
-		- **Git/GitHub**
-		- Clientes Git gráficos
-		- [Integración de Git con Jira](UD3/gitjira.md)
-	- Comunicación en equipo
-		- Email
-		- Slack
-	- Documentos colaborativos
-		- Google Docs
-		- Office 365
-	
-- UD4 **Informes y Documentación :** 
+- [1.1 Planificación y Organización de Proyectos](UD1/proyectos.md)
+	- [Diagramas Gantt](UD1/diagrama_gantt.md)
+- [1.2 Ciclos de vida de proyectos de software](UD1/life_cycle_software.md)
+- [1.3 Metodologías ágiles](UD1/metodologias_agiles.md)
+	 - [Kanban](UD1/kanban.md)
+		- [Ejercicio Kanban](UD1/exercises/ex_kanban.md)
+	- [Scrum](UD1/scrum.md)
+	- [DevOps](UD1/devops.md)
+	- [Versionado semántico](UD1/semver.md) 
+
+### UD2 **Herramientas de trabajo colaborativo:** 
+
+ - 2.1 Gestión de proyectos
+	- [Jira](UD2/jira.md)
+	- Trello
+- 2.2 Control de versiones
+	- **Git/GitHub**
+	- Clientes Git gráficos
+	- [Integración de Git con Jira](UD2/gitjira.md)
+- 2.3 Comunicación en equipo
+	- Email
+	- Slack
+- 2.4 Documentos colaborativos
+	- Google Docs
+	- Office 365
+
+### UD3 **Informes y Documentación :** 
 	- Explicar la importancia de documentar correctamente los avances, problemas y soluciones en un proyecto, utilizando herramientas como Google Docs o Notion.
 	
-- UD5 **Presentaciones**
-	- [Estructura de presentaciones](UD5/presentaciones.md)
+### UD4 **Presentaciones**
+- [Estructura de presentaciones](UD4/presentaciones.md)
