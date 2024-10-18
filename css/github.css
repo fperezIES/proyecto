@@ -1,0 +1,190 @@
+/* Mejora: Uso de box-sizing para mejor control de padding y márgenes */
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Helvetica", Arial, sans-serif;
+  font-size: 16px;
+  line-height: 1.6;
+  padding: 30px; /* Eliminación de padding redundante */
+  background-color: white;
+}
+
+/* Mantener márgenes específicos para el primer y último hijo */
+body > *:first-child {
+  margin-top: 0 !important;
+}
+body > *:last-child {
+  margin-bottom: 0 !important;
+}
+
+/* Estilos de los enlaces */
+a {
+  color: var(--main-link-color, #4183C4);
+}
+a.absent {
+  color: var(--error-color, #cc0000);
+}
+a.anchor {
+  display: block;
+  padding-left: 30px;
+  margin-left: -30px;
+  cursor: pointer;
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+}
+
+/* Encabezados */
+h1, h2, h3, h4, h5, h6 {
+  margin: 20px 0 10px;
+  padding: 0;
+  font-weight: bold;
+  -webkit-font-smoothing: antialiased;
+  cursor: text;
+  position: relative;
+}
+
+h1:hover a.anchor, h2:hover a.anchor, h3:hover a.anchor, 
+h4:hover a.anchor, h5:hover a.anchor, h6:hover a.anchor {
+  background: url(data:image/png;base64,iVBORw0KGgoAAA...) no-repeat 10px center;
+  text-decoration: none;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-size: inherit; /* Mejora: evitar repetición de código para tt y code */
+}
+
+/* Tamaños de encabezado */
+h1 {
+  font-size: 28px;
+  color: black;
+}
+h2 {
+  font-size: 24px;
+  border-bottom: 1px solid #cccccc;
+  color: black;
+}
+h3 {
+  font-size: 18px;
+}
+h4 {
+  font-size: 16px;
+}
+h5, h6 {
+  font-size: 14px;
+  color: #777777;
+}
+
+/* Márgenes comunes */
+p, blockquote, ul, ol, dl, li, table, pre {
+  margin: 17px 0;
+}
+
+/* Estilos de las listas */
+ul, ol {
+  padding-left: 30px;
+}
+ul :first-child, ol :first-child {
+  margin-top: 0;
+}
+
+/* Estilo de blockquote */
+blockquote {
+  border-left: 4px solid #dddddd;
+  padding: 0 15px;
+  color: #777777;
+}
+
+/* Tablas */
+table {
+  width: 100%; /* Mejora: hacer que la tabla se ajuste al contenedor */
+  border-collapse: collapse;
+  border-spacing: 0; /* Mejora: espaciado entre celdas */
+}
+table tr {
+  border-top: 1px solid #cccccc;
+  background-color: white;
+}
+table tr:nth-child(2n) {
+  background-color: #f8f8f8;
+}
+table tr th, table tr td {
+  border: 1px solid #cccccc;
+  padding: 6px 13px;
+}
+
+/* Imágenes */
+img {
+  max-width: 100%;
+  height: auto;
+  object-fit: cover; /* Mejora para evitar deformaciones */
+}
+
+/* Código */
+code, tt {
+  margin: 0 2px;
+  padding: 0 5px;
+  white-space: nowrap;
+  border: 0px solid #eaeaea;
+  background-color: #f8f8f8;
+  border-radius: 3px;
+}
+pre {
+  background-color: #f8f8f8;
+  border: 1px solid #cccccc;
+  font-size: 13px;
+  line-height: 19px;
+  overflow: auto;
+  padding: 6px 10px;
+  border-radius: 3px;
+}
+
+/* Superscripts */
+sup {
+  font-size: 0.83em;
+  vertical-align: super;
+  line-height: 0;
+}
+
+/* Estilo de botones de teclado */
+kbd {
+  display: inline-block;
+  padding: 3px 5px;
+  font-size: 11px;
+  line-height: 10px;
+  color: #555;
+  background-color: #fcfcfc;
+  border: solid 1px #ccc;
+  border-bottom-color: #bbb;
+  border-radius: 3px;
+  box-shadow: inset 0 -1px 0 #bbb;
+}
+
+/* Estilos de impresión */
+@media print {
+  table, pre {
+      page-break-inside: avoid;
+  }
+  pre {
+      word-wrap: break-word;
+  }
+}
+
+/* Estilo responsivo para pantallas grandes */
+@media screen and (min-width: 914px) {
+  body {
+      width: 854px;
+      margin: 0 auto;
+  }
+}
+
+/* Estilo responsivo para pantallas pequeñas */
+@media screen and (max-width: 600px) {
+  body {
+      padding: 15px;
+      font-size: 14px;
+  }
+}
