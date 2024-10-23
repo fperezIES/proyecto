@@ -169,3 +169,9 @@ Jira puede integrarse con varias herramientas que facilitan la gestión del proy
 ## Conclusión
 
 Jira es una herramienta extremadamente potente para la gestión de proyectos, especialmente en entornos ágiles como Scrum o Kanban. Al usar Jira, los equipos pueden mejorar la organización, la priorización y la eficiencia en el desarrollo de software o cualquier otro tipo de proyecto. Con una correcta configuración y gestión, Jira se convierte en un aliado indispensable para cualquier equipo de trabajo.
+
+
+# Bibliografía
+
+- [Guía de gestión de proyectos ágiles de Jira](https://www.atlassian.com/es/agile/project-management)
+- [Cómo usar Scrum con Jira](https://www.atlassian.com/es/agile/tutorials/how-to-do-scrum-with-jira)

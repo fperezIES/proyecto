@@ -55,7 +55,8 @@ A partir del segundo trimestre se comenzará a trabajar en grupos para realizar 
 	- [Jira](UD2/jira.md)
 	- Trello
 - 2.2 Control de versiones
-	- **Git/GitHub**
+	- [Git fundamentos](UD2/gitbasico.md)
+	- [Git gestión de ramas](UD2/gitramas.md)
 	- Clientes Git gráficos
 	- [Integración de Git con Jira](UD2/gitjira.md)
 - 2.3 Comunicación en equipo
