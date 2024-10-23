@@ -1,4 +1,4 @@
-
+# Herramientas de Control de Versiones
 # Integración de Git en Jira
 
 Para integrar **Git** en **Jira** utilizando la versión gratuita, la forma más común es hacerlo mediante la integración de **Bitbucket**, otro producto de Atlassian, o **GitHub** si usas esa plataforma para gestionar repositorios de código. A continuación, te explico cómo hacer ambas integraciones de manera sencilla.

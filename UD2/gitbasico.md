@@ -1,6 +1,6 @@
+# Herramientas de Control de Versiones
 
-
-# Uso básico de comandos Git
+# Uso básico de  Git
 
 Git es un sistema de control de versiones distribuido (DVCS) desarrollado por el equipo de Linux. Es ampliamente utilizado por diversas plataformas de control de versiones, como GitHub, BitBucket y GitLab, para alojar proyectos de forma remota. Para interactuar con estos repositorios remotos desde nuestra máquina local, necesitamos instalar Git y usar sus diferentes comandos. Puedes encontrar una lista de los comandos más comunes de Git en la [chuleta de Git de GitHub](https://education.github.com/git-cheat-sheet-education.pdf). Este documento te guiará a través de la instalación de Git y el uso de algunos comandos básicos.
 
