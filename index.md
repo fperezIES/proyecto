@@ -48,6 +48,8 @@ A partir del segundo trimestre se comenzará a trabajar en grupos para realizar 
 	- [Scrum](UD1/scrum.md)
 	- [DevOps](UD1/devops.md)
 	- [Versionado semántico](UD1/semver.md) 
+	- [Historias de Usuario](UD1/historias_de_usuario.md)
+	- [Estimación en Proyectos Ágiles](UD1/estimaciones_agiles.md)
 
 ### UD2 **Herramientas de trabajo colaborativo:** 
 
