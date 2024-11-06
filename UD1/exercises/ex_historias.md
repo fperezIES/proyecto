@@ -1,5 +1,5 @@
 
-# Ejercicio: Gestión de Historias de Usuario y Planificación en Jira
+# Ejercicio: Gestión de Historias de Usuario y Estimación en Jira
 
 **Objetivo**: Familiarizarse con el uso de Jira para la creación, estimación, priorización y ordenación de historias de usuario, desarrollando competencias prácticas en la gestión ágil de proyectos en equipo.
 
