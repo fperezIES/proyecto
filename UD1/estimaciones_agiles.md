@@ -112,4 +112,4 @@ La elección entre puntos o horas dependerá del contexto y la cultura de estima
 # Bibliografía
 
 - [Estimaciones en Jira](https://www.atlassian.com/es/agile/project-management/estimation)
-- [Planning Pocker](https://marketplace.atlassian.com/apps/1212495/planning-poker)
+- [Planning Poker](https://marketplace.atlassian.com/apps/1212495/planning-poker)
