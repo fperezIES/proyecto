@@ -50,7 +50,7 @@ A partir del segundo trimestre se comenzará a trabajar en grupos para realizar 
 	- [Versionado semántico](UD1/semver.md) 
 	- [Historias de Usuario](UD1/historias_de_usuario.md)
 	- [Estimación en Proyectos Ágiles](UD1/estimaciones_agiles.md)
-
+		- [Ejercicio Historias de usuario](UD1/exercises/ex_historias.md)
 ### UD2 **Herramientas de trabajo colaborativo:** 
 
  - 2.1 Gestión de proyectos

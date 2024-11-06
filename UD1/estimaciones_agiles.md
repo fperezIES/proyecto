@@ -113,3 +113,6 @@ La elección entre puntos o horas dependerá del contexto y la cultura de estima
 
 - [Estimaciones en Jira](https://www.atlassian.com/es/agile/project-management/estimation)
 - [Planning Poker](https://marketplace.atlassian.com/apps/1212495/planning-poker)
+	- [Resolución de problemas con guardado de estimaciones](https://magicapps.atlassian.net/wiki/spaces/TD/pages/209059987/Configuring+estimation+field+and+handling+errors)
+- [Configuración de seguimiento de tiempo en Jira](https://support.atlassian.com/jira-cloud-administration/docs/configure-time-tracking/)
+- [Añadir tiempo trabajado en un issue en Jira](https://support.atlassian.com/jira-software-cloud/docs/log-time-on-an-issue/)
