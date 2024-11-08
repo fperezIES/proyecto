@@ -57,7 +57,7 @@ A partir del segundo trimestre se comenzará a trabajar en grupos para realizar 
  - 2.1 Gestión de proyectos
 	- [Jira](UD2/jira.md)
 	- [Trello](UD2/Trello.md)
-            - [Ejercicios Kanban](UD2/ejercicios/Ejercicios_Trello.md)
+		- [Ejercicios Kanban](UD2/ejercicios/Ejercicios_Trello.md)
 - 2.2 Control de versiones
 	- [Git fundamentos](UD2/gitbasico.md)
 	- [Git gestión de ramas](UD2/gitramas.md)
