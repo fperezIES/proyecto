@@ -64,8 +64,8 @@ A partir del segundo trimestre se comenzará a trabajar en grupos para realizar 
 	- Clientes Git gráficos
 	- [Integración de Git con Jira](UD2/gitjira.md)
 - 2.3 Comunicación en equipo
-	- Email
-	- Slack
+	- [Email](UD2/email.md)
+	- [Slack](UD2/slack.md)
 - 2.4 Documentos colaborativos
 	- Google Docs
 	- Office 365
