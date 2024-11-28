@@ -1,8 +1,11 @@
 ## Introducción a Slack y su uso en el trabajo en equipo
 
+
+![Logo Slack](img/Slack_logo.png){:style="width: 30%;" class="center"}
+
 ### ¿Qué es Slack?
 
-Slack es una plataforma de comunicación y colaboración diseñada para facilitar el trabajo en equipo, especialmente en entornos profesionales. Combina funcionalidades de mensajería instantánea, intercambio de archivos, integración con otras herramientas y gestión de proyectos, todo en un solo lugar. Su objetivo principal es mejorar la productividad y la coordinación entre los miembros de un equipo, sustituyendo o complementando el uso de correos electrónicos y otras aplicaciones.
+[Slack](https://slack.com/) es una plataforma de comunicación y colaboración diseñada para facilitar el trabajo en equipo, especialmente en entornos profesionales. Combina funcionalidades de mensajería instantánea, intercambio de archivos, integración con otras herramientas y gestión de proyectos, todo en un solo lugar. Su objetivo principal es mejorar la productividad y la coordinación entre los miembros de un equipo, sustituyendo o complementando el uso de correos electrónicos y otras aplicaciones.
 
 ### ¿Por qué es útil en el mundo laboral?
 
@@ -159,7 +162,10 @@ Imagina un equipo que trabaja en el desarrollo de software:
 
 # Referencias
 
+- [Web oficial de Slack](https://slack.com/)
+- [Planes de precios de Slack](https://app.slack.com/plans/T082GT9RAT0?geocode=es-es)
 - [Primeros Pasos con Slack](https://slack.com/intl/es-es/help/articles/115004071768-%C2%BFQu%C3%A9-es-Slack#trabajar-en-slack)
+- [Crear un nuevo espacio de trabajo con Slack](https://slack.com/intl/es-es/help/articles/206845317-C%C3%B3mo-crear-un-espacio-de-trabajo-de-Slack)
 
 
 - [Guía de conexión de Jira con Slack](https://www.atlassian.com/es/software/jira/guides/integrations/tutorials#integrate-with-slack)
