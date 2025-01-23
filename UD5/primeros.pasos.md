@@ -18,6 +18,8 @@ Se deben incorporar los miembros del equipo a todas las herramientas. También a
 
 Estos pasos sientan las bases del proyecto y evitan cometer errores costosos en fases avanzadas. Con una planificación y un estudio de viabilidad sólidos, el desarrollo posterior tendrá mayores probabilidades de éxito.
 
+>La documentación de esta primera parte se puede realizar usando herramientas de oficina en la nube (google docs, office 365)
+
 ### 3.1 Generación de la idea y definición del problema
 
 El equipo debe decidir qué proyecto desarrollar. Debería ser algo cercano al mundo real, se puede simular un cliente. También se puede preparar un pequeño plan de negocio para una nueva empresa.
@@ -35,16 +37,15 @@ Una vez tenemos la idea inicial vamos a realizar un pequeño estudio del estado 
 
 Para este apartado podéis usar herramientas de inteligencia artificial como punto inicial de la investigación ([ChatGPT](https://chatgpt.com/), [Perplexiti](https://www.perplexity.ai/), [Gemini](https://gemini.google.com/), etc.)
 
-Pequeño plan de negocio para estudiar viabilidad económica del proyecto: estimación de costes de desarrollo, gastos de puesta en producción, posibles beneficios...
 
-La documentación de esta primera parte se puede realizar usando herramientas de oficina en la nube (google docs, office 365)
 
 ### 3.3 **Estudio de viabilidad**
+
+Pequeño plan de negocio para estudiar viabilidad económica del proyecto: estimación de costes de desarrollo, gastos de puesta en producción, posibles beneficios...
 
  - **Viabilidad económica**: estimar costes (personal, infraestructura, licencias, etc.) y posibles fuentes de financiación.
  -  **Viabilidad legal**: revisar cuestiones de propiedad intelectual, normativas vigentes, protección de datos (muy relevante en proyectos de software), etc.
 - **Viabilidad técnica**: evaluar si contamos con el conocimiento, la tecnología y los recursos necesarios para desarrollar la solución.
-
 
 ### 3.4 **Definición de alcance y objetivos**
     
