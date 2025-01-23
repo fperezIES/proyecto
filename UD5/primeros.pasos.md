@@ -35,7 +35,7 @@ Una vez tenemos la idea inicial vamos a realizar un pequeño estudio del estado 
 - Investigar las tecnologías disponibles o emergentes que puedan servir de base.
 - Analizar fortalezas y debilidades de dichas soluciones para encontrar oportunidades de mejora o nichos de innovación.
 
-Para este apartado podéis usar herramientas de inteligencia artificial como punto inicial de la investigación ([ChatGPT](https://chatgpt.com/), [Perplexiti](https://www.perplexity.ai/), [Gemini](https://gemini.google.com/), etc.)
+Para este apartado podéis usar herramientas de inteligencia artificial como punto inicial de la investigación ([ChatGPT](https://chatgpt.com/), [Perplexity](https://www.perplexity.ai/), [Gemini](https://gemini.google.com/), etc.)
 
 
 
