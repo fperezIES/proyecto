@@ -40,9 +40,10 @@ Para este apartado podéis usar herramientas de inteligencia artificial como pun
 
 ### 3.3 **Definición de alcance y objetivos**
     
-- A partir de la idea y la investigación previa, se concretan los objetivos que deberá cumplir el software.
-- Se establecen los indicadores de éxito y los entregables esperados.
--  Delimitar claramente el proyecto para evitar el **scope creep** (crecimiento incontrolado del alcance).
+A partir de la idea y la investigación previa, se concretan los objetivos que deberá cumplir el software. Escribiremos una descripción textual de los requisitos que deberá cumplir el producto desarrollado en el proyecto.
+
+- Se establecen los [indicadores de éxito (SMART)](KPI.md)
+- Se debe delimitar claramente el proyecto para evitar el **scope creep** (crecimiento incontrolado del alcance).
 ### 3.4 **Estudio de viabilidad**
 
 Pequeño plan de negocio para estudiar viabilidad económica del proyecto: estimación de costes de desarrollo, gastos de puesta en producción, posibles beneficios...
@@ -55,6 +56,7 @@ Pequeño plan de negocio para estudiar viabilidad económica del proyecto: estim
 ### 3.5 **Planificación inicial**
     
 - **Metodología de desarrollo**: decidir si se empleará Scrum, Kanban, cascada, o un modelo híbrido, y adaptar la planificación en consecuencia.
+- Definición de [entregables](entregables.md).
 - **Plan de plazos y recursos**: estimaciones iniciales de tiempos de entrega, hitos y costes.
 - **Plan de gestión de riesgos**: identificar posibles riesgos (técnicos, de mercado, de cumplimiento, etc.) y proponer planes de contingencia.
 - **Plan de comunicación**: establecer cómo y cuándo se comunicarán los avances, incidencias y decisiones con los interesados (equipo, cliente, profesor, etc.).
