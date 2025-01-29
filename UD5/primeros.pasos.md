@@ -29,7 +29,7 @@ A continuación se muestran algunas ideas que pueden servir de orientación:
 
 ### 3.2 Estudio del estado del arte
 
-Una vez tenemos la idea inicial vamos a realizar un pequeño estudio del estado del arte. Estudiaremos las aplicaciones existentes en el campo con las que competiremos. Haremos una pequeña investigación y análisis de soluciones existentes:
+Una vez tenemos la idea inicial vamos a realizar un pequeño estudio del estado del arte. Estudiaremos las aplicaciones existentes en el mercado con las que competiremos. Haremos una pequeña investigación y análisis de soluciones existentes:
 
 - Revisar qué soluciones o productos parecidos hay en el mercado.
 - Investigar las tecnologías disponibles o emergentes que puedan servir de base.
@@ -38,49 +38,53 @@ Una vez tenemos la idea inicial vamos a realizar un pequeño estudio del estado 
 Para este apartado podéis usar herramientas de inteligencia artificial como punto inicial de la investigación ([ChatGPT](https://chatgpt.com/), [Perplexity](https://www.perplexity.ai/), [Gemini](https://gemini.google.com/), etc.)
 
 
-
-### 3.3 **Estudio de viabilidad**
-
-Pequeño plan de negocio para estudiar viabilidad económica del proyecto: estimación de costes de desarrollo, gastos de puesta en producción, posibles beneficios...
-
- - **Viabilidad económica**: estimar costes (personal, infraestructura, licencias, etc.) y posibles fuentes de financiación.
- -  **Viabilidad legal**: revisar cuestiones de propiedad intelectual, normativas vigentes, protección de datos (muy relevante en proyectos de software), etc.
-- **Viabilidad técnica**: evaluar si contamos con el conocimiento, la tecnología y los recursos necesarios para desarrollar la solución.
-
-### 3.4 **Definición de alcance y objetivos**
+### 3.3 **Definición de alcance y objetivos**
     
 - A partir de la idea y la investigación previa, se concretan los objetivos que deberá cumplir el software.
 - Se establecen los indicadores de éxito y los entregables esperados.
--  Se marcan los límites del proyecto para evitar la “creep scope” (desviaciones de alcance).
+-  Delimitar claramente el proyecto para evitar el **scope creep** (crecimiento incontrolado del alcance).
+### 3.4 **Estudio de viabilidad**
+
+Pequeño plan de negocio para estudiar viabilidad económica del proyecto: estimación de costes de desarrollo, gastos de puesta en producción, posibles beneficios...
+
+- **Viabilidad económica**: estimar costes (personal, infraestructura, licencias, etc.), posibles fuentes de financiación y un cálculo básico de rentabilidad o beneficios.
+- **Viabilidad legal**: revisar la propiedad intelectual, normativas vigentes, protección de datos (muy relevante en software), etc.
+- **Viabilidad técnica**: evaluar si se cuenta con la tecnología, conocimientos y recursos adecuados para el desarrollo.
+
 
 ### 3.5 **Planificación inicial**
     
-- Elección de la metodología de desarrollo (ágil, en cascada, híbrida, etc.).
-- Estimación de los recursos y los plazos de entrega.
-- Formación del equipo, asignación de roles y responsabilidades.
+- **Metodología de desarrollo**: decidir si se empleará Scrum, Kanban, cascada, o un modelo híbrido, y adaptar la planificación en consecuencia.
+- **Plan de plazos y recursos**: estimaciones iniciales de tiempos de entrega, hitos y costes.
+- **Plan de gestión de riesgos**: identificar posibles riesgos (técnicos, de mercado, de cumplimiento, etc.) y proponer planes de contingencia.
+- **Plan de comunicación**: establecer cómo y cuándo se comunicarán los avances, incidencias y decisiones con los interesados (equipo, cliente, profesor, etc.).
+
 
 ### 3.6 **Propuesta de proyecto o documentación inicial**
     
 Con toda la información anterior, se elabora un primer documento que engloba:
 - Justificación del proyecto
 - Estado del arte y diferenciación frente a la competencia.
-- Resultados del estudio de viabilidad.
-- ​Objetivos detallados y alcance.
-- Plan de trabajo inicial y presupuesto aproximado    
+- Resultados del estudio de viabilidad (económica, legal y técnica).
+- Plan de trabajo inicial, presupuesto aproximado y plan de gestión de riesgos.
+- Plan de comunicación y asignación de roles.
 
  **Esta propuesta servirá como punto de partida para la validación o “go/no go” por parte de los interesados (patrocinadores, dirección, clientes, etc.).**
 
+
 ## 4 Desarrollo del proyecto
 
-Desarrollaremos el proyecto siguiendo las indicaciones recibidas durante el curso. El proyecto deberá contener los siguientes elementos.
+Llegados a este punto, se inicia el desarrollo propiamente dicho, que en líneas generales incluirá:
 
-- Análisis de requisitos
-- Diseño
-- Implementación 
-- Pruebas
-- Producción
-- Mantenimiento y plan de mejora
-- Documentación
-- Presentación
+- **Análisis de requisitos** (detallado y refinado a partir de la propuesta inicial).
+- **Diseño** (arquitectura, diagramas, prototipos).
+- **Implementación** (programación, integración continua, control de versiones).
+- **Pruebas** (unitarias, de integración, de aceptación).
+- **Puesta en producción** (despliegue, configuración de servidores, etc.).
+- **Mantenimiento y plan de mejora** (resolución de incidencias, nuevas funcionalidades).
+- **Documentación** (manuales de uso, guías de instalación, documentación interna).
+- **Presentación** (exposición final, demo al cliente o interesados).
+
+Cada proyecto podrá ajustar el orden, la profundidad y la forma de abordar estos pasos según la metodología elegida (Scrum, Kanban, cascada, etc.), pero es recomendable seguir este flujo general para asegurar la calidad y el éxito del trabajo.
 
 
