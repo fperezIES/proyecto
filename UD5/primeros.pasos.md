@@ -44,6 +44,7 @@ A partir de la idea y la investigación previa, se concretan los objetivos que d
 
 - Se establecen los [indicadores de éxito (SMART)](KPI.md)
 - Se debe delimitar claramente el proyecto para evitar el **scope creep** (crecimiento incontrolado del alcance).
+
 ### 3.4 **Estudio de viabilidad**
 
 Pequeño plan de negocio para estudiar viabilidad económica del proyecto: estimación de costes de desarrollo, gastos de puesta en producción, posibles beneficios...
