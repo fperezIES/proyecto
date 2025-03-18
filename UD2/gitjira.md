@@ -45,7 +45,7 @@ Puedes integrar **GitHub** con Jira utilizando la aplicación **GitHub for Jira*
     
     - Por ejemplo, en un commit relacionado con un issue "PROY-456", al escribir el mensaje del commit debes comenzar escribiendo el identificador del issue. Ej: "PROY-456 Corregido problema de carga inicial de usuarios"
     ```sh
-it commit -m "PROY-456 <summary of commit>"
+git commit -m "PROY-456 <summary of commit>"
 ```
     - Si queremos asociar una rama al issue llamaremos a la rama con el identificador del issue.
 
