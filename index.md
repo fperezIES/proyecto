@@ -86,4 +86,5 @@ A partir del segundo trimestre se comenzará a trabajar en grupos para realizar 
 - [Estructura de presentaciones](UD4/presentaciones.md)
 
 ### UD5 Desarrollo de proyecto
-- [Primeros pasos en el desarrollo del proyecto](UD5/primeros.pasos.md)
+- [Propuesta inicial del proyecto](UD5/primeros.pasos.md)
+- [Desarrollo del proyecto](UD5/desarrollo.proyecto.md)

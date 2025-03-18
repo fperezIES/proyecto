@@ -122,3 +122,7 @@ El versionado semántico complementa el marco de trabajo Scrum al organizar el p
   - Versión resultante: `2.0.0`.
 
 Este enfoque garantiza entregas constantes y permite a los equipos y usuarios comprender fácilmente el impacto de cada actualización.
+
+## Bibliografía
+
+- [Especificación Versionado Semántico (SemVer)](https://semver.org/lang/es/)
