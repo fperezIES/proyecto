@@ -4,6 +4,8 @@
 
 Para integrar **Git** en **Jira** utilizando la versión gratuita, una opción común es hacerlo mediante la integración de **GitHub**. A continuación, se explica cómo realizar esta integración de manera sencilla.
 
+Antes de empezar es necesario que [crees una organización en GitHub](organizacion.github.md) y transfieras los repositorios a enlazar en Jira a esa organización.
+
 ### 1. **Integrar GitHub con Jira**
 
 Puedes integrar **GitHub** con Jira utilizando la aplicación **GitHub for Jira**, disponible en el **Atlassian Marketplace**.
@@ -16,13 +18,13 @@ Puedes integrar **GitHub** con Jira utilizando la aplicación **GitHub for Jira*
         
     - Busca **GitHub for Jira** y selecciónala de los resultados.
         
-    - Haz clic en **Obtener aplicación** y luego en **Consíguelo ahora**.
+    - Haz clic en **Obtener aplicación** y luego en **Consíguelo ahora**. (*Get it now*)
         
 2. **Conectar una organización de GitHub**:
     
-    - Después de instalar la aplicación, haz clic en **Empezar**. Si la aplicación ya está instalada, ve a **Apps** > **Administrar tus aplicaciones** y luego **GitHub for Jira**.
+    - Después de instalar la aplicación, haz clic en **Empezar**. Si la aplicación ya está instalada, ve a **Apps** > **Gestiona tus aplicaciones** y luego **GitHub for Jira**.
         
-    - Haz clic en **Continuar**.
+    - Haz clic en **Get Started** y luego **Continue.**
         
     - Selecciona **GitHub Cloud** y luego **Siguiente**.
         
@@ -42,7 +44,12 @@ Puedes integrar **GitHub** con Jira utilizando la aplicación **GitHub for Jira*
 - **Vinculación de actividades**: Puedes vincular **commits**, **pull requests** y **ramas** con issues de Jira escribiendo el número del issue en el mensaje del commit o en el nombre de la rama.
     
     - Por ejemplo, en un commit relacionado con un issue "PROY-456", al escribir el mensaje del commit debes comenzar escribiendo el identificador del issue. Ej: "PROY-456 Corregido problema de carga inicial de usuarios"
+    ```sh
+it commit -m "PROY-456 <summary of commit>"
+```
     - Si queremos asociar una rama al issue llamaremos a la rama con el identificador del issue.
+
+Es importante usar las **mayúsculas** al escribir el identificador del issue.
 #### Ventajas de la integración GitHub-Jira:
 
 - **Visibilidad del código**: Jira muestra todos los commits y pull requests asociados a un issue.
@@ -63,13 +70,15 @@ Una vez que hayas configurado la integración con GitHub, Jira mostrará automá
 - **Ramas**: Puedes ver qué ramas están asociadas a cada issue y su estado.
     
 
+Para complementar esta guía, puedes consultar el siguiente video que muestra cómo instalar la integración de GitHub para Jira Software desde la página de herramientas de Jira. Esta integración permite actualizaciones automáticas de los elementos de trabajo en Jira basadas en la actividad de GitHub.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/N-RZjp4og28?si=TzdrZ60cYRvzfKzC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## Bibliografía
 
 - [Integrar Jira con GitHub](https://support.atlassian.com/jira-cloud-administration/docs/integrate-jira-software-with-github/)
     
 - [GitHub for Jira en Atlassian Marketplace](https://marketplace.atlassian.com/apps/1219592/github-for-jira?hosting=cloud&tab=overview)
     
+- [Cómo referenciar Issues desde Git](https://support.atlassian.com/jira-software-cloud/docs/reference-issues-in-your-development-work/)
 
-Para complementar esta guía, puedes consultar el siguiente video que muestra cómo instalar la integración de GitHub para Jira Software desde la página de herramientas de Jira. Esta integración permite actualizaciones automáticas de los elementos de trabajo en Jira basadas en la actividad de GitHub.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/N-RZjp4og28?si=TzdrZ60cYRvzfKzC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
